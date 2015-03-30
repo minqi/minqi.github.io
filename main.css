@@ -1,0 +1,97 @@
+body {
+	font-family:"HelveticaNeue";
+	color:#000;
+	text-align:center;
+}
+
+#bio {
+	display:inline-block;
+	margin-top: 120px;
+	text-align:left;
+}
+
+#bio-content {
+	display:inline-block;
+}
+
+div.centered {
+	margin: 0 auto;
+}
+
+/* unvisited link */
+a:link, a:visited, a:hover, a:active {
+	color:blue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+div.txt-cursor {
+	width:8px;
+	height:18px;
+	display:inline-block;
+	background: #aaa;
+	position:relative;
+	top:2px;
+	margin-left:4px;
+}
+
+/* animation */
+
+.blink {
+  animation: blink 1s steps(5, start) infinite;
+  -webkit-animation: blink 1s steps(5, start) infinite;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+/*@-webkit-keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+.objblink {
+-webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    
+    -webkit-animation-direction: normal;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-name: blink;
+    -webkit-animation-timing-function: ease-in-out;
+    
+-moz-animation-direction: normal;
+    -moz-animation-duration: 1s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-name: blink;
+    -moz-animation-timing-function: ease-in-out;    
+}*/

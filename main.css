@@ -20,8 +20,23 @@ ul {
 	display:inline-block;
 }
 
+#bio-content .summary {
+    font-size: 18px;
+    margin-bottom: 72px;
+}
+
 .content-group {
     margin: 24px 0;
+    font-size: 12px;
+}
+
+.content-group .section-header {
+    font-weight: bold;
+    color: black;
+}
+
+.content-group ul > li {
+    margin: 4px 0;
 }
 
 div.centered {
@@ -34,15 +49,11 @@ div.centered {
 
 /* unvisited link */
 a:link, a:visited, a:hover, a:active {
-	color:blue;
+	color:#0088ff;
 	text-decoration: none;
 }
 a:hover {
 	text-decoration: underline;
-}
-
-div.underline {
-    text-decoration: underline;
 }
 
 div.txt-cursor {

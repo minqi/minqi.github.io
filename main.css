@@ -28,6 +28,7 @@ ul {
 .content-group {
     margin: 24px 0;
     font-size: 12px;
+    text-transform: uppercase;
 }
 
 .content-group .section-header {

@@ -69,6 +69,10 @@ div.txt-cursor {
 	margin-left:4px;
 }
 
+.years {
+    opacity: 0.5;
+}
+
 /* animation */
 
 .blink {

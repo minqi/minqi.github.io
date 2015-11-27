@@ -21,13 +21,14 @@ ul {
 }
 
 #bio-content .summary {
-    font-size: 18px;
+    font-size: 24px;
     margin-bottom: 72px;
+    max-width: 520px;
 }
 
 .content-group {
     margin: 24px 0;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
 }
 

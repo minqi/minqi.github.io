@@ -1,7 +1,9 @@
 body {
 	font-family:"HelveticaNeue";
-	color:#000;
+	color:#1f1f1f;
 	text-align:center;
+  margin:0px;
+  padding:0px;
 }
 
 ul {
@@ -12,30 +14,37 @@ ul {
 
 #bio {
 	display:inline-block;
-	margin-top: 120px;
 	text-align:left;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #bio-content {
 	display:inline-block;
-    padding: 0 24px;
+  padding: 0 24px;
 }
 
 #bio-content .summary {
-    font-size: 24px;
-    margin-bottom: 72px;
-    max-width: 520px;
+  font-size: 24px;
+  margin-bottom: 48px;
+  max-width: 400px;
+  letter-spacing: 0.5px;
 }
 
 .content-group {
-    margin: 24px 0;
-    font-size: 14px;
-    text-transform: uppercase;
+  margin: 24px 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  max-width: 400px;
 }
 
 .content-group .section-header {
-    font-weight: bold;
-    color: black;
+  font-weight: bold;
+  color:#1f1f1f;
 }
 
 .content-group ul > li {
@@ -47,7 +56,7 @@ div.centered {
 }
 
 .bold {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 /* unvisited link */
@@ -60,32 +69,40 @@ a:hover {
 }
 
 div.txt-cursor {
-	width:12px;
+	width:4px;
 	height:24px;
 	display:inline-block;
-	background: #aaa;
+	background: #1f1f1f;
 	position:relative;
 	top:2px;
-	margin-left:4px;
+	margin-left: 0px;
 }
 
 .years {
-    opacity: 0.5;
+  opacity: 0.5;
+  float: right;
 }
 
 /* animation */
 
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    to { opacity: 1.0; }
+}                                                                                                                                                                                                                                  
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    to { opacity: 1.0; }
+}
+@-moz-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    to { opacity: 1.0; }
+}
+
 .blink {
-  animation: blink 1s steps(5, start) infinite;
-  -webkit-animation: blink 1s steps(5, start) infinite;
-}
-@keyframes blink {
-  to {
-    visibility: hidden;
-  }
-}
-@-webkit-keyframes blink {
-  to {
-    visibility: hidden;
-  }
+  animation:fade 1.5s infinite;
+  -webkit-animation:fade 1.5s infinite;
+  -moz-animation:fade 1.5s infinite;
 }

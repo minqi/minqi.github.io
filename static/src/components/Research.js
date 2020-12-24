@@ -39,7 +39,7 @@ class Research extends Component {
 				</div>
 
 				<div className='section publications-container'>
-					<div className='section-header'>Recent papers</div>
+					<div className='section-header'>Recent works</div>
 					{this._make_publications_list()}
 				</div>
 			</div>

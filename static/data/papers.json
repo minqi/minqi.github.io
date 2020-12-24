@@ -1,3 +1,21 @@
-{
-	
-}
+[	
+	{
+		"title": "Prioritized Level Replay",
+		"authors": [
+			"Minqi Jiang", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "arXiv",
+		"url": "https://arxiv.org/abs/2010.03934",
+		"year": 2020
+	},
+
+	{
+		"title": "WordCraft: An Environment for Benchmarking Commonsense Agents",
+		"authors": [
+			"Minqi Jiang", "Jelena Luketina", "Nantas Nardelli", "Pasquale Minervini", "Philip H.S. Torr", "Shimon Whiteson", "Tim Rocktäschel"
+		],
+		"publication": "The 1st Workshop on Language in Reinforcement Learning (LaRel) at ICML, 2020",
+		"url": "https://arxiv.org/abs/2007.09185",
+		"year": 2020
+	}
+]

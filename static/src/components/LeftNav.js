@@ -15,7 +15,7 @@ class LeftNav extends Component {
 				PhD student, University College London, Facebook AI Research
 				</div>
 				<ul className='links'>
-					<li key='twitter'><div className='twitter-icon'/> <a href='twitter.com/minqijiang'>@MinqiJiang</a></li>
+					<li key='twitter'><div className='twitter-icon'/> <a target='__blank' href='https://www.twitter.com/minqijiang'>@MinqiJiang</a></li>
 					<li key='email'><div className='email-icon'/> <span className='email'>msj at fb dot com</span></li>
 				</ul>
 			</div>

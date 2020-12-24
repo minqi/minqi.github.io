@@ -37,13 +37,13 @@ let TopNavWithRouter = withRouter(TopNav);
 const render = () => ReactDOM.render(
 	<Router>
 		<Provider store={store}>
-			<div className='main-container'>
-				<TopNavWithRouter/>
-				<div className='content-view'>
-					<LeftNav/>
-					<Switch>
+			<div className='app-container'>
+				<LeftNav/>
+				<div className='content-container'>
+					<div className='content-view'>
+						<TopNavWithRouter/>
 						{allRoutes}
-					</Switch>
+					</div>
 				</div>
 			</div>
 		</Provider>

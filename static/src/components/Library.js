@@ -9,6 +9,7 @@ class Library extends Component {
 
 	_make_reading_list() {
 		// @todo: Load publications from JSON
+		let items = []
 		for (item in items) {
 			
 		}

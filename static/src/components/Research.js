@@ -19,7 +19,7 @@ class Research extends Component {
 	render() {
 		return (
 			<div className='research-container'>
-				<div className='research-blurb'>
+				<div className='section research-blurb'>
 					<p>
 					The rapid rise of computational power allows ever more powerful AI agents to be trained in simulation. 
 					A simulator, of course, does not fully reflect reality nor human preferences. 
@@ -38,7 +38,7 @@ class Research extends Component {
 					</p>
 				</div>
 
-				<div className='publications-container'>
+				<div className='section publications-container'>
 					<div className='section-header'>Recent papers</div>
 					{this._make_publications_list()}
 				</div>

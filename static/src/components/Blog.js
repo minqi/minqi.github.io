@@ -17,7 +17,7 @@ class Blog extends Component {
 	render() {
 		return (
 			<div className='blog_container'>
-				{this._load_blog_posts()}
+				This is my blog...
 			</div>
 		)
 	}

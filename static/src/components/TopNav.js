@@ -10,10 +10,10 @@ class TopNav extends Component {
 		return (
 			<div className='top-nav'>
 				<ul className='menu-items'>
-					<li>Research</li>
-					<li>Essays</li>
-					<li>Software & Startups</li>
-					<li>Library</li>
+					<li key='research'><a>Research</a></li>
+					<li key='essays'><a href='blog'>Essays</a></li>
+					<li key='software'>Software & Startups</li>
+					<li key='library'>Library</li>
 				</ul>
 			</div>
 		)

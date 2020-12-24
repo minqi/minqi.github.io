@@ -12,8 +12,8 @@ class LeftNav extends Component {
 				<div className='prof-photo'/>
 				<div className='name'>Minqi Jiang</div>
 				<ul className='links'>
-					<li><div className='twitter-icon'/> <a href='twitter.com/minqijiang'>@MinqiJiang</a></li>
-					<li><div className='email-icon'/> <span className='email'>msj at fb dot com</span></li>
+					<li key='twitter'><div className='twitter-icon'/> <a href='twitter.com/minqijiang'>@MinqiJiang</a></li>
+					<li key='email'><div className='email-icon'/> <span className='email'>msj at fb dot com</span></li>
 				</ul>
 			</div>
 		)

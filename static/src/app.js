@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware, combineReducers } from 'redux';
 import { Provider } from 'react-redux';
 import reduxThunk from 'redux-thunk';
-import { HashRouter as Router, Link, Route } from 'react-router-dom';
+// import { HashRouter as Router, Link, Route } from 'react-router-dom';
+import {BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 import { withRouter } from "react-router";
 
 import reducers from './reducers';
@@ -12,7 +13,6 @@ import LeftNav from './components/LeftNav';
 import Research from './components/Research';
 import Blog from './components/Blog';
 import Library from './components/Library';
-
 
 require('../stylesheets/main.scss');
 
@@ -29,7 +29,6 @@ const rootEl = document.getElementById('root');
 const allRoutes = [
 	<Route exact path='/' component={Research} />,
 	<Route path='/research' component={Research} />,
-	// <Route path='/essays' component={Blog} />,
 	<Route path='/library' component={Library} />,
 ]
 
@@ -42,7 +41,9 @@ const render = () => ReactDOM.render(
 				<TopNavWithRouter/>
 				<div className='content-view'>
 					<LeftNav/>
-					{allRoutes}
+					<Switch>
+						{allRoutes}
+					</Switch>
 				</div>
 			</div>
 		</Provider>

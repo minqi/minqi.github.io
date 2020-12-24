@@ -4,6 +4,9 @@
 # node modules
 node_modules/
 
+# build
+static/build/
+
 .DS_Store
 package-lock.json
 

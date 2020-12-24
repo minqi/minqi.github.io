@@ -19,9 +19,29 @@ class Research extends Component {
 	render() {
 		return (
 			<div className='research-container'>
-				{this._make_publications_list()}
+				<div className='research-blurb'>
+					<p>
+					The rapid rise of computational power allows ever more powerful AI agents to be trained in simulation. 
+					A simulator, of course, does not fully reflect reality nor human preferences. 
+					My research interests center on the grand challenge of human-centric generalization: 
+					How can AI agents learn useful, human-aligned behaviors that transfer to new settings and people?
+					</p>
 
-				This is my research
+					<p>
+					I consider this question primarily in the setting of deep reinforcement learning, 
+					focusing on problems arising at the intersection of generalization, human-ai coordination, and open-ended systems.
+					</p>
+
+					<p>
+					I have the great fortune to be advised by Tim Rocktäschel and Edward Grefenstette 
+					and to work with other fantastic collaborators at UCL, Oxford, and FAIR.
+					</p>
+				</div>
+
+				<div className='publications-container'>
+					<div className='section-header'>Recent papers</div>
+					{this._make_publications_list()}
+				</div>
 			</div>
 		)
 	}

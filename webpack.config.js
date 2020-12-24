@@ -43,7 +43,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = {
   mode: 'development',
-
+  devtool: "eval-source-map",
   entry: {
     main: './static/src/app.js'
   },

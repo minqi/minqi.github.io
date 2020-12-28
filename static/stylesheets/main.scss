@@ -81,6 +81,14 @@ body {
 
 	font-size:14px;
 
+	.self-portrait {
+		background-image: url('../images/ai-portrait.jpg');
+		background-size: cover;
+		height: 120px;
+		width: 120px;
+		margin-bottom: 16px;
+	}
+
 	.name {
 		font-size: 18px;
 		font-weight: bold;
@@ -98,7 +106,7 @@ body {
 	}
 }
 
-.top-nav ul.menu-items {
+.page-nav ul.menu-items {
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-start;
@@ -115,6 +123,32 @@ body {
 	}
 	li:last-child {
 		padding-right: 0px;
+	}
+
+	.page-nav-link {
+		// padding: 1px 0;
+		// border-bottom: 2px solid transparent;
+		opacity: 0.5;
+		transition: 0.2s ease-out;
+		.underline {
+			height: 2px;
+			margin: 0 auto;
+			width: 0%;
+			background: transparent;
+			transition: 0.2s ease-out;
+		}
+	}
+	.page-nav-link.selected {
+		// border-bottom: 2px solid black;
+		opacity: 1.0;
+		.underline {
+			width: 100%;
+			background: black;
+		}
+	}
+	.page-nav-link:hover {
+		opacity: 1.0;
+		cursor: pointer;
 	}
 }
 

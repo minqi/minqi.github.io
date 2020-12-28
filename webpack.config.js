@@ -49,7 +49,8 @@ module.exports = {
   },
 
   output: {
-    path: path.resolve(__dirname, 'static/build')
+    path: path.resolve(__dirname, 'static/build'),
+    publicPath: '/static/build/'
   },
 
   plugins: [
@@ -80,6 +81,9 @@ module.exports = {
           sourceMap: true
         }
       }]
+    },{
+      test: /\.(png|svg|jpg|jpeg|gif)$/i,
+      type: 'asset/resource',
     }]
   },
 

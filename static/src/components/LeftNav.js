@@ -9,10 +9,10 @@ class LeftNav extends Component {
 	render() {
 		return (
 			<div className='left-nav'>
-				<div className='prof-photo'/>
+				<div className='self-portrait'/>
 				<div className='name'>Minqi Jiang</div>
 				<div className='job-title'>
-				PhD student, University College London, Facebook AI Research
+				PhD student, University College London & Facebook AI Research
 				</div>
 				<ul className='links'>
 					<li key='twitter'><div className='twitter-icon'/> <a target='__blank' href='https://www.twitter.com/minqijiang'>@MinqiJiang</a></li>

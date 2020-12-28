@@ -6,9 +6,10 @@ import reduxThunk from 'redux-thunk';
 // import { HashRouter as Router, Link, Route } from 'react-router-dom';
 import {BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 import { withRouter } from "react-router";
+import { createBrowserHistory } from "history";
 
 import reducers from './reducers';
-import TopNav from './components/TopNav';
+import PageNav from './components/PageNav';
 import LeftNav from './components/LeftNav';
 import Research from './components/Research';
 import Blog from './components/Blog';
@@ -32,16 +33,18 @@ const allRoutes = [
 	<Route path='/library' component={Library} />,
 ]
 
-let TopNavWithRouter = withRouter(TopNav);
+const history = createBrowserHistory();
+
+let PageNavWithRouter = withRouter(PageNav);
 
 const render = () => ReactDOM.render(
-	<Router>
+	<Router history={history}>
 		<Provider store={store}>
 			<div className='app-container'>
 				<LeftNav/>
 				<div className='content-container'>
 					<div className='content-view'>
-						<TopNavWithRouter/>
+						<PageNavWithRouter/>
 						{allRoutes}
 					</div>
 				</div>

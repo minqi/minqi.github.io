@@ -411,6 +411,12 @@ body {
   padding: 16px;
   box-sizing: border-box;
   font-size: 14px; }
+  .left-nav .self-portrait {
+    background-image: url(/static/build/2508eddc8e07f9705deb.jpg);
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    margin-bottom: 16px; }
   .left-nav .name {
     font-size: 18px;
     font-weight: bold;
@@ -420,19 +426,36 @@ body {
   .left-nav .links li {
     margin: 8px 0; }
 
-.top-nav ul.menu-items {
+.page-nav ul.menu-items {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: center; }
-  .top-nav ul.menu-items li {
+  .page-nav ul.menu-items li {
     padding: 8px;
     min-width: 32px;
     font-weight: bold; }
-  .top-nav ul.menu-items li:first-child {
+  .page-nav ul.menu-items li:first-child {
     padding-left: 0px; }
-  .top-nav ul.menu-items li:last-child {
+  .page-nav ul.menu-items li:last-child {
     padding-right: 0px; }
+  .page-nav ul.menu-items .page-nav-link {
+    opacity: 0.5;
+    transition: 0.2s ease-out; }
+    .page-nav ul.menu-items .page-nav-link .underline {
+      height: 2px;
+      margin: 0 auto;
+      width: 0%;
+      background: transparent;
+      transition: 0.2s ease-out; }
+  .page-nav ul.menu-items .page-nav-link.selected {
+    opacity: 1.0; }
+    .page-nav ul.menu-items .page-nav-link.selected .underline {
+      width: 100%;
+      background: black; }
+  .page-nav ul.menu-items .page-nav-link:hover {
+    opacity: 1.0;
+    cursor: pointer; }
 
 .section-header {
   font-weight: bold;

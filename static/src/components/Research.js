@@ -11,8 +11,9 @@ class Research extends Component {
 
 	_make_publications_list() {
 		// @todo: Load publications from JSON
+		let papers = []
 		for (paper in papers) {
-
+			
 		}
 	}
 
@@ -21,7 +22,7 @@ class Research extends Component {
 			<div className='research-container'>
 				<div className='section research-blurb'>
 					<p>
-					The rapid rise of computational power allows ever more powerful AI agents to be trained in simulation. 
+					The rapid rise of computational power allows ever more capable AI agents to be trained in simulation. 
 					A simulator, of course, does not fully reflect reality nor human preferences. 
 					My research interests center on the grand challenge of human-centric generalization: 
 					How can AI agents learn useful, human-aligned behaviors that transfer to new settings and people?
@@ -29,7 +30,7 @@ class Research extends Component {
 
 					<p>
 					I consider this question primarily in the setting of deep reinforcement learning, 
-					focusing on problems arising at the intersection of generalization, human-ai coordination, and open-ended systems.
+					focusing on problems arising at the intersection of generalization, human-AI coordination, and open-ended systems.
 					</p>
 
 					<p>

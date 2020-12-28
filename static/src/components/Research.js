@@ -84,18 +84,16 @@ class Research extends Component {
 					<p>
 					The rapid rise of computational power allows ever more capable AI agents to be trained in simulation. 
 					A simulator, of course, does not fully reflect reality nor human preferences. 
-					My research interests center on the grand challenge of human-centric generalization: 
-					How can AI agents learn useful, human-aligned behaviors that transfer to new settings and people?
+					How can AI agents learn useful, human-aligned behaviors in simulation that transfer to new settings and people?
 					</p>
 
 					<p>
-					I consider this question primarily in the setting of deep reinforcement learning, 
-					focusing on problems arising at the intersection of generalization, human-AI coordination, and open-ended systems.
+					I consider this question primarily in the setting of <span className='bold'>deep reinforcement learning</span>, 
+					focusing on problems arising at the intersections of <span className='bold'>generalization</span>, <span className='bold'>human-AI coordination</span>, and <span className='bold'>open-ended systems</span>.
 					</p>
 
 					<p>
-					I have the great fortune to be advised by Tim Rocktäschel and Edward Grefenstette 
-					and to work with other fantastic collaborators at UCL, Oxford, and FAIR.
+					I have the great fortune to be advised by <a target='__blank' href='https://rockt.github.io/'>Tim Rocktäschel</a> and <a target='__blank' href='https://www.egrefen.com/'>Edward Grefenstette</a> and to work with other fantastic collaborators at UCL, Oxford, and FAIR.
 					</p>
 				</div>
 

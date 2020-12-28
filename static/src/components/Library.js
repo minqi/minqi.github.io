@@ -18,6 +18,11 @@ class Library extends Component {
 	render() {
 		return (
 			<div className='library-container'>
+
+				<div className='section preface'>
+					This is a growing list of books I've read in the past few years. Books I particularly enjoyed are highlighted in yellow.
+				</div>
+
 				{this._make_reading_list()}
 			</div>
 		)

@@ -1,6 +1,18 @@
 @import 'constants';
 
 
+.research-container {
+	a {
+		color: $link-color;
+	}
+	a:hover {
+		text-decoration: underline;
+		cursor: pointer;
+	}
+
+	font-size: 16px;
+}
+
 ul.publications li {
 	margin: 16px 0;
 

@@ -1,8 +1,11 @@
 @import '../../node_modules/minireset.css/minireset.min.css';
 @import '../../node_modules/normalize.css/normalize.css';
 
+@import 'constants';
+
+
 body {
-  font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+  font-family: "Inter-Regular", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color:#1f1f1f;
   margin:0px;
@@ -40,10 +43,18 @@ a, a:hover {
   margin: 0 auto;
 }
 
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic; 
+}
+
 
 
 body {
-	font-size: 18px;
+	font-size: 16px;
 
 	p {
 		margin-bottom: 16px;
@@ -51,7 +62,7 @@ body {
 }
 
 .app-container {
-	border: 1px solid pink;
+	// border: 1px solid pink;
 	display: flex;
 	flex-direction: row;
 
@@ -63,11 +74,11 @@ body {
 }
 
 .content-container {
+	// border: 1px solid red;
 	display: flex;
 	flex-direction: column;
 	flex: 1 1 auto;
 	width: 100%;
-	border: 1px solid red;
 	padding: 8px;
 }
 
@@ -126,8 +137,6 @@ body {
 	}
 
 	.page-nav-link {
-		// padding: 1px 0;
-		// border-bottom: 2px solid transparent;
 		opacity: 0.5;
 		transition: 0.2s ease-out;
 		.underline {
@@ -139,7 +148,6 @@ body {
 		}
 	}
 	.page-nav-link.selected {
-		// border-bottom: 2px solid black;
 		opacity: 1.0;
 		.underline {
 			width: 100%;
@@ -154,7 +162,7 @@ body {
 
 .section-header {
 	font-weight: bold;
-	margin-bottom: 16px;
+	margin-bottom: 12px;
 }
 
 .section {

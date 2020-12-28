@@ -1,0 +1,13 @@
+@import 'constants';
+
+
+ul.publications li {
+	margin: 16px 0;
+
+	a {
+		color: $link-color;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
+}

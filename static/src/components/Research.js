@@ -9,12 +9,72 @@ import papers from '../../data/papers.json'
 
 class Research extends Component {
 
+	_formatPaperAuthors(authors) {
+		let formattedAuthors = [];
+		console.log(authors);
+		for (var i = 0;  i < authors.length; i++) {
+			let a = authors[i];
+			let tokens = a.split(' ');
+			let initials = tokens.slice(0,tokens.length - 1).reduce((accum, next) => accum + next[0], ''); 
+			let surname = tokens[tokens.length - 1];
+			let isBold = a.toLowerCase() == 'minqi jiang';
+
+			let separator = ', ';
+			if (i == authors.length - 1) {
+				separator = '';
+			}
+
+			formattedAuthors.push(<span className={classnames({bold: isBold})}>{initials} {surname}{separator}</span>);
+		}
+
+		return formattedAuthors;
+	}
+
+	_formatPaperLinks(links) {
+		let formattedLinks = [];
+		let numLinks = [Object.keys(links).length];
+
+		var linkCount = 0;
+		for (let key in links) {
+			let url = links[key]
+			let separator = '';
+			if (linkCount < numLinks - 1) {
+				separator = ', ';
+			}
+			formattedLinks.push(<span><a target='__blank' href={url}>{key}</a>{separator}</span>);
+			linkCount++;
+		}
+
+		return formattedLinks;
+	} 
+
 	_make_publications_list() {
 		// @todo: Load publications from JSON
-		let papers = []
-		for (paper in papers) {
-			
+		let paperListItems = [];
+		for (var key in papers) {
+			if (papers.hasOwnProperty(key)) {
+				let paper = papers[key];
+
+				let authors = [];
+				let numAuthors =paper.authors.length;
+				for (var i = 0; i < numAuthors; i++) {
+					authors.push(paper.authors[i]);
+				}
+
+				let listItem = (
+					<li>
+						<div className='title'>{paper.title}</div>
+						<div className='authors'>{this._formatPaperAuthors(authors)}</div>
+						<div className='publication'><span className='italic'>{paper.publication}</span>, {[paper.year]}</div>
+						<div className='links'>[{this._formatPaperLinks(paper.links)}]</div>
+					</li>
+				);
+
+				paperListItems.push(listItem);
+	    }
 		}
+
+		return <ul className='publications'>{paperListItems}</ul>;
 	}
 
 	render() {

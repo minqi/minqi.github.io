@@ -68,7 +68,7 @@ class Research extends Component {
 
 				let listItem = (
 					<li>
-						<div className='title'>{paper.title}</div>
+						<div className='title'><a target='__blank' href={paper.links.paper}>{paper.title}</a></div>
 						<div className='authors'>{this._formatPaperAuthors(authors)}</div>
 						<div className='publication'><span className='italic'>{paper.publication}</span>, {[paper.year]}</div>
 						{note}

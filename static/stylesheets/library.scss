@@ -1,3 +1,25 @@
 .library-container {
 	font-size: 16px;
+
+	ul.books {
+		li {
+			margin: 12px 0;
+
+		}
+
+		li.recommended span.title {
+			background: cyan;
+		}
+
+		li.favorite span.title {
+			background: yellow
+		}
+	}
+
+	.highlight-cyan {
+		background: cyan;
+	}
+	.highlight-yellow {
+		background: yellow;
+	}
 }

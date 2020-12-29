@@ -25,6 +25,9 @@ a, a:hover {
   text-decoration: none;
   color: inherit;
 }
+a:hover {
+	text-decoration: underline;
+}
 
 .no-display {
   display: none !important; 

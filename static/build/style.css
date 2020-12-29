@@ -381,6 +381,9 @@ a, a:hover {
   text-decoration: none;
   color: inherit; }
 
+a:hover {
+  text-decoration: underline; }
+
 .no-display {
   display: none !important; }
 
@@ -557,4 +560,14 @@ ul.publications li {
 
 .library-container {
   font-size: 16px; }
+  .library-container ul.books li {
+    margin: 12px 0; }
+  .library-container ul.books li.recommended span.title {
+    background: cyan; }
+  .library-container ul.books li.favorite span.title {
+    background: yellow; }
+  .library-container .highlight-cyan {
+    background: cyan; }
+  .library-container .highlight-yellow {
+    background: yellow; }
 

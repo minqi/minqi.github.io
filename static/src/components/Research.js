@@ -11,7 +11,6 @@ class Research extends Component {
 
 	_formatPaperAuthors(authors) {
 		let formattedAuthors = [];
-		console.log(authors);
 		for (var i = 0;  i < authors.length; i++) {
 			let a = authors[i];
 			let tokens = a.split(' ');
@@ -93,7 +92,7 @@ class Research extends Component {
 					</p>
 
 					<p>
-					I have the great fortune to be advised by <a target='__blank' href='https://rockt.github.io/'>Tim Rocktäschel</a> and <a target='__blank' href='https://www.egrefen.com/'>Edward Grefenstette</a> and to work with other fantastic collaborators at UCL, Oxford, and FAIR.
+					I have the great fortune to be advised by <a target='__blank' href='https://rockt.github.io/'>Tim Rocktäschel</a> and <a target='__blank' href='https://www.egrefen.com/'>Edward Grefenstette</a>, as well as to work with other fantastic collaborators at UCL, Oxford, and FAIR.
 					</p>
 				</div>
 

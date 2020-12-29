@@ -14,6 +14,7 @@ import LeftNav from './components/LeftNav';
 import Research from './components/Research';
 import Blog from './components/Blog';
 import Library from './components/Library';
+import Signature from './components/Signature';
 
 require('../stylesheets/main.scss');
 
@@ -49,6 +50,7 @@ const render = () => ReactDOM.render(
 					</div>
 				</div>
 			</div>
+			<Signature/>
 		</Provider>
 	</Router>,
   rootEl

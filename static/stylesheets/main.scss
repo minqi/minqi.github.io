@@ -215,6 +215,10 @@ body {
 		display: flex;
 		flex-direction: row;
 
+		.name {
+			font-size: 24px;
+		}
+
 		.self-portrait {
 			display: none;
 		}

@@ -10,7 +10,8 @@
 			"paper": "https://arxiv.org/abs/2010.03934",	
 			"code": "https://github.com/facebookresearch/level-replay",
 			"tl;dr": "https://twitter.com/MinqiJiang/status/1314571006552543246"
-		}
+		},
+		"note": "Key component of current state-of-the-art on <a href='https://openai.com/blog/procgen-benchmark/'>OpenAI Procgen<a>" 
 	},
 
 	{

@@ -1,5 +1,6 @@
 @import 'constants';
 
+$note-color: #777;
 
 .research-container {
 	a {
@@ -21,5 +22,15 @@ ul.publications li {
 	}
 	a:hover {
 		text-decoration: underline;
+	}
+
+	.note {
+		display: flex;
+		flex-direction: row;
+		color: $note-color;
+		font-style: italic;
+	}
+	.note a {
+		color: $note-color;
 	}
 }

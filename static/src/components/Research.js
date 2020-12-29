@@ -1,10 +1,11 @@
 require('../../stylesheets/research.scss');
 
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-import classnames from 'classnames'
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import classnames from 'classnames';
+import parse from 'html-react-parser';
 
-import papers from '../../data/papers.json'
+import papers from '../../data/papers.json';
 
 
 class Research extends Component {
@@ -60,11 +61,17 @@ class Research extends Component {
 					authors.push(paper.authors[i]);
 				}
 
+				let note = null;
+				if (paper.hasOwnProperty('note')) {
+					note = <div className='note'><div>↳ </div><div>{parse(paper['note'])}</div></div>
+				}
+
 				let listItem = (
 					<li>
 						<div className='title'>{paper.title}</div>
 						<div className='authors'>{this._formatPaperAuthors(authors)}</div>
 						<div className='publication'><span className='italic'>{paper.publication}</span>, {[paper.year]}</div>
+						{note}
 						<div className='links'>[{this._formatPaperLinks(paper.links)}]</div>
 					</li>
 				);

@@ -24,11 +24,12 @@ class PageNavLink extends Component {
 
 	render() {
 		let isSelected = false;
+		let currentPath = this.props.location.pathname.toLowerCase();
 		if (this.props.regexPath) {
-			isSelected = this.props.regexPath.test(this.props.location.pathname);
+			isSelected = this.props.regexPath.test(currentPath);
 		}
 		else if (this.props.path) {
-			isSelected = this.props.location.pathname == this.props.path;
+			isSelected = currentPath == this.props.path;
 		}
 
 		let classNames = classnames({

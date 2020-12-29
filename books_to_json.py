@@ -23,5 +23,5 @@ if __name__ == '__main__':
 			bdict = {'title': title, 'author':author, 'rating':rating, 'pid': pid, 'date_read': date_read, 'url': url}
 			book_dicts.append(bdict)
 
-	fout = open('books.json', 'w+')
+	fout = open('static/data/books.json', 'w+')
 	json.dump(book_dicts, fout, indent=4)

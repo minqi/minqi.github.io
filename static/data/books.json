@@ -4,1196 +4,1367 @@
         "author": "Mike Shellenberger",
         "rating": "",
         "pid": "0063001691",
-        "date_read": ""
+        "date_read": "",
+        "url": ""
     },
     {
         "title": "House of Leaves",
         "author": "Mark Z. Danielewski",
         "rating": "",
         "pid": "0375703764",
-        "date_read": ""
+        "date_read": "",
+        "url": ""
     },
     {
         "title": "Probability Theory: The Logic of Science",
         "author": "E.T. Jaynes",
         "rating": "4.5",
         "pid": "0521592712",
-        "date_read": ""
+        "date_read": "",
+        "url": ""
     },
     {
         "title": "The Master and Margarita",
         "author": "Mikhail Bulgakov",
         "rating": "",
         "pid": "0143108271",
-        "date_read": ""
+        "date_read": "",
+        "url": ""
     },
     {
-        "title": "Information Theory, Inference, and Learning Algorithms",
+        "title": "Information Theory, Inference and Learning Algorithms",
         "author": "David J. C. MacKay ",
         "rating": "4.5",
         "pid": "0521642981",
-        "date_read": ""
+        "date_read": "",
+        "url": ""
     },
     {
         "title": "Already Free",
         "author": "Bruce Tift",
         "rating": "4.5",
         "pid": "1622034112",
-        "date_read": "8/11/2020"
+        "date_read": "8/11/2020",
+        "url": ""
     },
     {
         "title": "Men Without Women",
         "author": "Haruki Murakami",
         "rating": "4",
         "pid": "1101974524",
-        "date_read": "5/11/2020"
+        "date_read": "5/11/2020",
+        "url": ""
     },
     {
         "title": "Minor Feelings",
         "author": "Cathy Park Hong",
         "rating": "3.5",
         "pid": "1984820362",
-        "date_read": "4/11/2020"
+        "date_read": "4/11/2020",
+        "url": ""
     },
     {
         "title": "Deep Work",
         "author": "Cal Newport",
         "rating": "3.5",
         "pid": "1455586692",
-        "date_read": "3/8/2020"
+        "date_read": "3/8/2020",
+        "url": ""
     },
     {
         "title": "Kudos",
         "author": "Rachel Cusk",
         "rating": "4",
         "pid": "1250207398",
-        "date_read": "3/1/2020"
+        "date_read": "3/1/2020",
+        "url": ""
     },
     {
         "title": "Transit",
         "author": "Rachel Cusk",
         "rating": "5",
         "pid": "1250151791",
-        "date_read": "2/21/2020"
+        "date_read": "2/21/2020",
+        "url": ""
     },
     {
         "title": "This Is How You Lose Her",
         "author": "Junot D\u00edaz",
         "rating": "4",
         "pid": "1594631778",
-        "date_read": "2/19/2020"
+        "date_read": "2/19/2020",
+        "url": ""
     },
     {
         "title": "Nonviolent Communication",
         "author": "Marshall Rosenberg",
         "rating": "4",
         "pid": "189200528X",
-        "date_read": "2/18/2020"
+        "date_read": "2/18/2020",
+        "url": ""
     },
     {
         "title": "Human Compatible",
         "author": "Stuart Russell",
         "rating": "4.5",
         "pid": "0525558632",
-        "date_read": "2/8/2020"
+        "date_read": "2/8/2020",
+        "url": ""
     },
     {
         "title": "Outline",
         "author": "Rachel Cusk",
         "rating": "5",
         "pid": "1250081548",
-        "date_read": "1/30/2020"
+        "date_read": "1/30/2020",
+        "url": ""
     },
     {
         "title": "The Year of Magical Thinking",
         "author": "Joan Didion",
         "rating": "4",
         "pid": "1400078431",
-        "date_read": "1/26/2020"
+        "date_read": "1/26/2020",
+        "url": ""
     },
     {
         "title": "Normal People",
         "author": "Sally Rooney",
         "rating": "5",
         "pid": "1984822187",
-        "date_read": "1/16/2020"
+        "date_read": "1/16/2020",
+        "url": ""
     },
     {
         "title": "My Year of Rest and Relaxation",
         "author": "Otessa Moshfegh",
         "rating": "4",
         "pid": "0525522131",
-        "date_read": "1/11/2020"
+        "date_read": "1/11/2020",
+        "url": ""
     },
     {
         "title": "The Art of Learning: An Inner Journey to Optimal Performance",
         "author": "Josh Waitzkin",
         "rating": "5",
         "pid": "0743277465",
-        "date_read": "1/8/2020"
+        "date_read": "1/8/2020",
+        "url": ""
     },
     {
         "title": "The Hatred of Poetry",
         "author": "Ben Lerner",
         "rating": "4",
         "pid": "0865478201",
-        "date_read": "1/4/2020"
+        "date_read": "1/4/2020",
+        "url": ""
     },
     {
         "title": "Homegoing",
         "author": "Yaa Gyasi",
         "rating": "4",
         "pid": "1101971061",
-        "date_read": "12/30/2019"
+        "date_read": "12/30/2019",
+        "url": ""
     },
     {
         "title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
         "author": "Gregory Zuckerman",
         "rating": "3.5",
         "pid": "073521798X",
-        "date_read": "12/27/2019"
+        "date_read": "12/27/2019",
+        "url": ""
     },
     {
         "title": "Superintelligence",
         "author": "Nick Bostrom",
         "rating": "3",
         "pid": "0198739834",
-        "date_read": "12/21/2019"
+        "date_read": "12/21/2019",
+        "url": ""
     },
     {
         "title": "The Topeka School",
         "author": "Ben Lerner",
         "rating": "4.5",
         "pid": "1250758009",
-        "date_read": "12/19/2019"
+        "date_read": "12/19/2019",
+        "url": ""
     },
     {
         "title": "A Guide to the Good Life: The Ancient Art of Stoic Joy",
         "author": "William B. Irvine",
         "rating": "3",
         "pid": "B0040JHNQG",
-        "date_read": "11/24/2019"
+        "date_read": "11/24/2019",
+        "url": ""
     },
     {
         "title": "Moonwalking with Einstein",
         "author": "Joshua Foer",
         "rating": "3.5",
         "pid": "0143120530",
-        "date_read": "11/13/2019"
+        "date_read": "11/13/2019",
+        "url": ""
     },
     {
         "title": "Why Greatness Cannot Be Planned",
         "author": "Kenneth Stanley, Joel Lehman",
         "rating": "4.5",
         "pid": "3319155237",
-        "date_read": "9/29/2019"
+        "date_read": "9/29/2019",
+        "url": ""
     },
     {
         "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
         "author": "Chris Voss",
         "rating": "3.5",
         "pid": "1847941494",
-        "date_read": "9/16/2019"
+        "date_read": "9/16/2019",
+        "url": ""
     },
     {
         "title": "The Idiot",
         "author": "Elif Batuman",
         "rating": "4.5",
         "pid": "014311106X",
-        "date_read": "9/15/2019"
+        "date_read": "9/15/2019",
+        "url": ""
     },
     {
         "title": "The Largess of the Sea Maiden",
         "author": "Denis Johnson",
         "rating": "3.5",
         "pid": "0812988655",
-        "date_read": "9/14/2019"
+        "date_read": "9/14/2019",
+        "url": ""
     },
     {
         "title": "The Score Takes Care of Itself",
         "author": "Bill Walsh",
         "rating": "3",
         "pid": "1591843472",
-        "date_read": "9/10/2019"
+        "date_read": "9/10/2019",
+        "url": ""
     },
     {
         "title": "The Beginning of Infinite",
         "author": "David Deutsch",
         "rating": "5",
         "pid": "B005DXR5ZC",
-        "date_read": "8/27/2019"
+        "date_read": "8/27/2019",
+        "url": ""
     },
     {
         "title": "My Name Is Red",
         "author": "Orhan Pamuk",
         "rating": "3.5",
         "pid": "0375706852",
-        "date_read": "8/23/2019"
+        "date_read": "8/23/2019",
+        "url": ""
     },
     {
         "title": "Natural Language Understanding with Distributed Representation",
         "author": "Kyunghyon Cho",
         "rating": "4",
         "pid": "",
-        "date_read": "8/15/2019"
+        "date_read": "8/15/2019",
+        "url": "https://arxiv.org/abs/1511.07916"
     },
     {
         "title": "The Society of Mind",
         "author": "Marvin Minsky",
         "rating": "4.5",
         "pid": "0671657135",
-        "date_read": "8/5/2019"
+        "date_read": "8/5/2019",
+        "url": ""
     },
     {
         "title": "Pattern Recognition and Machine Learning",
         "author": "Christopher M. Bishop",
         "rating": "5",
         "pid": "0387310738",
-        "date_read": "-"
+        "date_read": "-",
+        "url": ""
     },
     {
         "title": "The Book of My Lives",
         "author": "Aleksandar Hemon",
         "rating": "4.5",
         "pid": "1250043549",
-        "date_read": "4/16/2019"
+        "date_read": "4/16/2019",
+        "url": ""
     },
     {
         "title": "Thinking in Systems: A Primer",
         "author": "Donella H. Meadows",
         "rating": "2",
         "pid": "1603580557",
-        "date_read": "4/5/2019"
+        "date_read": "4/5/2019",
+        "url": ""
     },
     {
         "title": "Kitchen Confidential",
         "author": "Anthony Bourdain",
         "rating": "3",
         "pid": "0060899220",
-        "date_read": "2/26/2019"
+        "date_read": "2/26/2019",
+        "url": ""
     },
     {
         "title": "Born to Run",
         "author": "Christopher McDougall",
         "rating": "3.5",
         "pid": "0307279189",
-        "date_read": "2/10/2019"
+        "date_read": "2/10/2019",
+        "url": ""
     },
     {
         "title": "Death\u2019s End",
         "author": "Liu Cixin",
         "rating": "4",
         "pid": "0765386631",
-        "date_read": "1/16/2019"
+        "date_read": "1/16/2019",
+        "url": ""
     },
     {
         "title": "Trip",
         "author": "Tao Lin",
         "rating": "3.5",
         "pid": "1101974516",
-        "date_read": "1/7/2019"
+        "date_read": "1/7/2019",
+        "url": ""
     },
     {
         "title": "Thinking in Bets",
         "author": "Annie Duke",
         "rating": "2",
         "pid": "0735216371",
-        "date_read": "1/3/2019"
+        "date_read": "1/3/2019",
+        "url": ""
     },
     {
         "title": "Vampires in the Lemon Grove",
         "author": "Karen Russell",
         "rating": "3.5",
         "pid": "B00Q4C8LDQ",
-        "date_read": "12/31/2018"
+        "date_read": "12/31/2018",
+        "url": ""
     },
     {
         "title": "Creative Selection",
         "author": "Ken Kocienda",
         "rating": "3",
         "pid": "1250194466",
-        "date_read": "12/29/2018"
+        "date_read": "12/29/2018",
+        "url": ""
     },
     {
         "title": "The Book of Why",
         "author": "Judea Pearl",
         "rating": "5",
         "pid": "1541698967",
-        "date_read": "12/24/2018"
+        "date_read": "12/24/2018",
+        "url": ""
     },
     {
         "title": "Lake Success",
         "author": "Gary Shteyngart",
         "rating": "4",
         "pid": "0241984084",
-        "date_read": "12/1/2018"
+        "date_read": "12/1/2018",
+        "url": ""
     },
     {
         "title": "The Courage to Be Disliked",
         "author": "Ichiro Kishimi & Fumitake Koga",
         "rating": "3.5",
         "pid": "B078MDSV8T",
-        "date_read": "9/16/2018"
+        "date_read": "9/16/2018",
+        "url": ""
     },
     {
         "title": "The Strange Death of Europe",
         "author": "Douglas Murray",
         "rating": "3",
         "pid": "1472958055",
-        "date_read": "9/7/2018"
+        "date_read": "9/7/2018",
+        "url": ""
     },
     {
         "title": "Reinforcement Learning, 2nd Edition",
         "author": "Andrew Barto and Richard S. Sutton",
         "rating": "4.5",
         "pid": "",
-        "date_read": "8/21/2018"
+        "date_read": "8/21/2018",
+        "url": "http://incompleteideas.net/book/the-book.html"
     },
     {
         "title": "Homesick for Another World",
         "author": "Ottessa Moshfegh",
         "rating": "4.5",
         "pid": "B01ESI3Q82",
-        "date_read": "8/15/2018"
+        "date_read": "8/15/2018",
+        "url": ""
     },
     {
         "title": "The Shortest History of Germany",
         "author": "James Hawes",
         "rating": "4",
         "pid": "1615195696",
-        "date_read": "8/12/2018"
+        "date_read": "8/12/2018",
+        "url": ""
     },
     {
         "title": "But What If We're Wrong?: Thinking About the Present As If It Were the Past",
         "author": "Chuck Klosterman",
         "rating": "3.5",
         "pid": "0399184139",
-        "date_read": "8/3/2018"
+        "date_read": "8/3/2018",
+        "url": ""
     },
     {
         "title": "The Hard Thing About Hard Things",
         "author": "Ben Horowitz",
         "rating": "4",
         "pid": "0062273205",
-        "date_read": "7/31/2018"
+        "date_read": "7/31/2018",
+        "url": ""
     },
     {
         "title": "Linear Algebra Done Right, 3rd Edition",
         "author": "Sheldon Axler",
         "rating": "5",
         "pid": "3319110799",
-        "date_read": "7/23/2018"
+        "date_read": "7/23/2018",
+        "url": ""
     },
     {
         "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
         "author": "Yvon Chouinard",
         "rating": "4",
         "pid": "0143109677",
-        "date_read": "7/16/2018"
+        "date_read": "7/16/2018",
+        "url": ""
     },
     {
         "title": "Portfolios of the Poor",
         "author": "Daryl Collins",
         "rating": "3",
         "pid": "0691141487",
-        "date_read": "7/15/2018"
+        "date_read": "7/15/2018",
+        "url": ""
     },
     {
         "title": "One Hundred Years of Solitude",
         "author": "Gabriel Garc\u00eda M\u00e1rquez",
         "rating": "3",
         "pid": "0060883286",
-        "date_read": "7/5/2018"
+        "date_read": "7/5/2018",
+        "url": ""
     },
     {
         "title": "Who Owns the Future?",
         "author": "Jaron Lanier",
         "rating": "5",
         "pid": "1451654979",
-        "date_read": "5/29/2018"
+        "date_read": "5/29/2018",
+        "url": ""
     },
     {
         "title": "Manual of Ideas",
         "author": "John Mihaljevic",
         "rating": "4",
         "pid": "B00DF1L98S",
-        "date_read": "5/17/2018"
+        "date_read": "5/17/2018",
+        "url": ""
     },
     {
         "title": "Emotional Design",
         "author": "Don Norman",
         "rating": "3.5",
         "pid": "0465051367",
-        "date_read": "4/26/2018"
+        "date_read": "4/26/2018",
+        "url": ""
     },
     {
         "title": "Why Nations Fail",
         "author": "Daron Acemoglu, James Robinson",
         "rating": "5",
         "pid": "0307719227",
-        "date_read": "4/15/2018"
+        "date_read": "4/15/2018",
+        "url": ""
     },
     {
         "title": "Surely You\u2019re Joking Mr. Feynman",
         "author": "Richard Feynman",
         "rating": "4",
         "pid": "0393355624",
-        "date_read": "3/21/2018"
+        "date_read": "3/21/2018",
+        "url": ""
     },
     {
         "title": "Einstein\u2019s Dreams",
         "author": "Alan Lightman",
         "rating": "3",
         "pid": "140007780X",
-        "date_read": "3/16/2018"
+        "date_read": "3/16/2018",
+        "url": ""
     },
     {
         "title": "The Book",
         "author": "Alan Watts",
         "rating": "4",
         "pid": "0679723005",
-        "date_read": "3/16/2018"
+        "date_read": "3/16/2018",
+        "url": ""
     },
     {
         "title": "Neural Networks and Deep Learning",
         "author": "Michael Nielsen",
         "rating": "5",
         "pid": "",
-        "date_read": "3/15/2018"
+        "date_read": "3/15/2018",
+        "url": "http://neuralnetworksanddeeplearning.com/"
     },
     {
         "title": "Hooked",
         "author": "Nir Eyal",
         "rating": "3",
         "pid": "1591847788",
-        "date_read": "3/12/2018"
+        "date_read": "3/12/2018",
+        "url": ""
     },
     {
         "title": "Story of Your Life and Others",
         "author": "Ted Chiang",
         "rating": "3.5",
         "pid": "1101972122",
-        "date_read": "3/9/2018"
+        "date_read": "3/9/2018",
+        "url": ""
     },
     {
         "title": "The Underground Railroad",
         "author": "Colson Whitehead",
         "rating": "4",
         "pid": "0345804325",
-        "date_read": "3/5/2018"
+        "date_read": "3/5/2018",
+        "url": ""
     },
     {
         "title": "More Money Than God, Hedge Funds and the Making of a New Elite",
         "author": "Sebastian Mallaby",
         "rating": "4",
         "pid": "0143119419",
-        "date_read": "2/21/2018"
+        "date_read": "2/21/2018",
+        "url": ""
     },
     {
         "title": "The World According to Garp",
         "author": "John Irving",
         "rating": "4",
         "pid": "034536676X",
-        "date_read": "2/11/2018"
+        "date_read": "2/11/2018",
+        "url": ""
     },
     {
         "title": "Finite and Infinite Games",
         "author": "James Carse",
         "rating": "3",
         "pid": "1476731713",
-        "date_read": "2/6/2018"
+        "date_read": "2/6/2018",
+        "url": ""
     },
     {
         "title": "GDP, A Brief but Affectionate History",
         "author": "Diane Coyle",
         "rating": "4",
         "pid": "0691169853",
-        "date_read": "1/23/2018"
+        "date_read": "1/23/2018",
+        "url": ""
     },
     {
         "title": "The Righteous Mind",
         "author": "Jonathan Haidt",
         "rating": "5",
         "pid": "0307455777",
-        "date_read": "1/22/2018"
+        "date_read": "1/22/2018",
+        "url": ""
     },
     {
         "title": "Deep Learning with Python",
         "author": "Fran\u00e7ois Chollet",
         "rating": "5",
         "pid": "1617294438",
-        "date_read": "1/17/2018"
+        "date_read": "1/17/2018",
+        "url": ""
     },
     {
         "title": "What I Talk About When I Talk About Running",
         "author": "Haruki Murakami",
         "rating": "4",
         "pid": "0307389839",
-        "date_read": "12/30/2017"
+        "date_read": "12/30/2017",
+        "url": ""
     },
     {
         "title": "The Course of Love",
         "author": "Alain de Botton",
         "rating": "4.5",
         "pid": "1501134515",
-        "date_read": "12/23/2017"
+        "date_read": "12/23/2017",
+        "url": ""
     },
     {
         "title": "Open City",
         "author": "Teju Cole",
         "rating": "3.5",
         "pid": "0812980093",
-        "date_read": "11/28/2017"
+        "date_read": "11/28/2017",
+        "url": ""
     },
     {
         "title": "The Death and Life of Great American Cities",
         "author": "Jane Jacobs",
         "rating": "5",
         "pid": "067974195X",
-        "date_read": "10/23/2017"
+        "date_read": "10/23/2017",
+        "url": ""
     },
     {
         "title": "Shoe Dog",
         "author": "Philip Knight",
         "rating": "4.5",
         "pid": "1501135929",
-        "date_read": "9/27/2017"
+        "date_read": "9/27/2017",
+        "url": ""
     },
     {
         "title": "The Dark Forest",
         "author": "Liu Cixin",
         "rating": "5",
         "pid": "0765386690",
-        "date_read": "7/27/2017"
+        "date_read": "7/27/2017",
+        "url": ""
     },
     {
         "title": "Chaos Monkeys",
         "author": "Antonio Garcia Martinez",
         "rating": "3.5",
         "pid": "B07C7DM72N",
-        "date_read": "5/14/2017"
+        "date_read": "5/14/2017",
+        "url": ""
     },
     {
         "title": "You Don\u2019t Know Javascript - Async & Performance",
         "author": "Kyle Simpson",
         "rating": "4",
         "pid": "1491904224",
-        "date_read": "4/12/2017"
+        "date_read": "4/12/2017",
+        "url": ""
     },
     {
         "title": "You Don\u2019t Know Javascript - Scope & Closures",
         "author": "Kyle Simpson",
         "rating": "4",
         "pid": "1449335586",
-        "date_read": "4/11/2017"
+        "date_read": "4/11/2017",
+        "url": ""
     },
     {
         "title": "You Don\u2019t Know Javascript - this & Object Prototypes",
         "author": "Kyle Simpson",
         "rating": "4",
         "pid": "1491904151",
-        "date_read": "4/10/2017"
+        "date_read": "4/10/2017",
+        "url": ""
     },
     {
         "title": "Superforecasting: The Art and Science of Prediction",
         "author": "Dan Gardner and Philip Tetlock",
         "rating": "4",
         "pid": "0804136718",
-        "date_read": "4/17/2017"
+        "date_read": "4/17/2017",
+        "url": ""
     },
     {
         "title": "Americanah",
         "author": "Chimamanda Ngozi Adichie",
         "rating": "5",
         "pid": "0307455920",
-        "date_read": "4/3/2017"
+        "date_read": "4/3/2017",
+        "url": ""
     },
     {
         "title": "Hillbilly Elegy",
         "author": "J.D. Vance",
         "rating": "3",
         "pid": "0062300555",
-        "date_read": "3/15/2017"
+        "date_read": "3/15/2017",
+        "url": ""
     },
     {
         "title": "Propaganda",
         "author": "Edward Bernays",
         "rating": "3.5",
         "pid": "0970312598",
-        "date_read": "3/9/2017"
+        "date_read": "3/9/2017",
+        "url": ""
     },
     {
         "title": "Fluent in 3 Months",
         "author": "Benny Lewis",
         "rating": "1.5",
         "pid": "0062282697",
-        "date_read": "3/9/2017"
+        "date_read": "3/9/2017",
+        "url": ""
     },
     {
         "title": "Crystallizing Public Opinion",
         "author": "Edward Bernays",
         "rating": "3.5",
         "pid": "193543926X",
-        "date_read": "2/27/2017"
+        "date_read": "2/27/2017",
+        "url": ""
     },
     {
         "title": "Eating Animals",
         "author": "Jonathan Safran Foer",
         "rating": "5",
         "pid": "0316069884",
-        "date_read": "2/10/2017"
+        "date_read": "2/10/2017",
+        "url": ""
     },
     {
         "title": "Vagabonding",
         "author": "Rolf Potts",
         "rating": "1.5",
         "pid": "0812992180",
-        "date_read": "1/28/2017"
+        "date_read": "1/28/2017",
+        "url": ""
     },
     {
         "title": "I Ching (The Book of Changes)",
         "author": "",
         "rating": "3",
         "pid": "069109750X",
-        "date_read": "1/12/2017"
+        "date_read": "1/12/2017",
+        "url": ""
     },
     {
         "title": "The Argonauts",
         "author": "Maggie Nelson",
         "rating": "5",
         "pid": "1555977359",
-        "date_read": "1/7/2017"
+        "date_read": "1/7/2017",
+        "url": ""
     },
     {
         "title": "Between the World and Me",
         "author": "Ta-Nehisi Coates",
         "rating": "5",
         "pid": "0812993543",
-        "date_read": "1/3/2017"
+        "date_read": "1/3/2017",
+        "url": ""
     },
     {
         "title": "Sum: Tales from the Afterlives",
         "author": "David Eagleman",
         "rating": "3",
         "pid": "B001TKA0VO",
-        "date_read": "12/3/2016"
+        "date_read": "12/3/2016",
+        "url": ""
     },
     {
         "title": "Jersey Rain",
         "author": "Robert Pinsky",
         "rating": "3",
         "pid": "0374527725",
-        "date_read": "12/1/2016"
+        "date_read": "12/1/2016",
+        "url": ""
     },
     {
         "title": "The War of Art",
         "author": "Steven Pressfield",
         "rating": "5",
         "pid": "1936891026",
-        "date_read": "11/20/2016"
+        "date_read": "11/20/2016",
+        "url": ""
     },
     {
         "title": "What the Doormouse Said",
         "author": "John Markoff",
         "rating": "5",
         "pid": "0143036769",
-        "date_read": "11/17/2016"
+        "date_read": "11/17/2016",
+        "url": ""
     },
     {
         "title": "The Three-Body Problem",
         "author": "Liu Cixin",
         "rating": "4.5",
         "pid": "0765382032",
-        "date_read": "10/23/2016"
+        "date_read": "10/23/2016",
+        "url": ""
     },
     {
         "title": "10:04",
         "author": "Ben Lerner",
         "rating": "5",
         "pid": "1250081335",
-        "date_read": "10/15/2016"
+        "date_read": "10/15/2016",
+        "url": ""
     },
     {
         "title": "Viral Loop",
         "author": "Adam Penenberg",
         "rating": "3.5",
         "pid": "1401323499",
-        "date_read": "10/10/2016"
+        "date_read": "10/10/2016",
+        "url": ""
     },
     {
         "title": "This Is Your Brain On Music",
         "author": "Daniel Levitin",
         "rating": "4",
         "pid": "0452288525",
-        "date_read": "10/4/2016"
+        "date_read": "10/4/2016",
+        "url": ""
     },
     {
         "title": "Practical Typography",
         "author": "Matthew Butterick",
         "rating": "4.5",
         "pid": "",
-        "date_read": "9/28/2016"
+        "date_read": "9/28/2016",
+        "url": "https://practicaltypography.com/"
     },
     {
         "title": "The Box",
         "author": "Marc Levinson",
         "rating": "5",
         "pid": "0691170819",
-        "date_read": "9/19/2016"
+        "date_read": "9/19/2016",
+        "url": ""
     },
     {
         "title": "The Inner Game of Tennis",
         "author": "Timothy Gallwey",
         "rating": "4",
         "pid": "0679778314",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Ogilvy on Advertising",
         "author": "David Ogilvy",
         "rating": "3",
         "pid": "039472903X",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "How to Win Friends and Influence People",
         "author": "Dale Carnegie",
         "rating": "4",
         "pid": "0671027034",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Good Strategy / Bad Strategy",
         "author": "Richard Rumelt",
         "rating": "5",
         "pid": "0307886239",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Art of War",
         "author": "Sun Tzu",
         "rating": "4",
         "pid": "081331951X",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The First 90 Days",
         "author": "Michael Watkins",
         "rating": "3.5",
         "pid": "1422188612",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "What Technology Wants",
         "author": "Kevin Kelly",
         "rating": "5",
         "pid": "B0043EV51W",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Art Spirit",
         "author": "Robert Henri",
         "rating": "5",
         "pid": "0465002633",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "High Output Management",
         "author": "Andy Grove",
         "rating": "4",
         "pid": "0679762884",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Understanding Comic Books",
         "author": "Scott McCloud",
         "rating": "5",
         "pid": "006097625X",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Checklist Manifesto",
         "author": "Atul Gawande",
         "rating": "4.5",
         "pid": "0312430000",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Manual (How to Have a Number One the Easy Way)",
         "author": "The Timelords AKA The KLF (Bill Drummond and Jimmy Cauty)",
         "rating": "5",
         "pid": "",
-        "date_read": "?"
+        "date_read": "?",
+        "url": "https://archive.org/details/TheManualHowToHaveANumber1TheEasyWay"
     },
     {
         "title": "The Song Machine: Inside the Hit Factory",
         "author": "John Seabrook",
         "rating": "5",
         "pid": "0393353281",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Concierge Confidential",
         "author": "Michael Fazio, Michael Malice",
         "rating": "2",
         "pid": "1250002737",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Inspired: How to Create Products Customers Love",
         "author": "Marty Cagan",
         "rating": "3.5",
         "pid": "0981690408",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Invisible Cities",
         "author": "Italo Calvino",
         "rating": "3.5",
         "pid": "0156453800",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Crossing the Chasm",
         "author": "Geoffrey Moore",
         "rating": "4",
         "pid": "0062292986",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Man\u2019s Search for Meaning",
         "author": "Victor Frankl",
         "rating": "5",
         "pid": "0807014273",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Evening Man",
         "author": "Frederick Seidel",
         "rating": "4",
         "pid": "B004ECCCYM",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Innovator\u2019s Dilemma",
         "author": "Clay Christensen",
         "rating": "4",
         "pid": "0062060244",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "After the Quake: Stories",
         "author": "Haruki Murakami",
         "rating": "4.5",
         "pid": "B004HOWPSK",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Snow Crash",
         "author": "Neal Stephenson",
         "rating": "4",
         "pid": "0553380958",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Never Eat Alone",
         "author": "Keith Ferrazzi",
         "rating": "3.5",
         "pid": "0385346654",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Traction: A Startup Guide to Getting Customers",
         "author": "Gabriel Weinberg, Justin Mares",
         "rating": "4",
         "pid": "0976339609",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Core Data, 2nd Ed",
         "author": "Marcus S. Zarra",
         "rating": "4",
         "pid": "",
-        "date_read": "?"
+        "date_read": "?",
+        "url": "https://www.goodreads.com/book/show/16033521-core-data"
     },
     {
         "title": "Camera Lucida",
         "author": "Roland Barthes",
         "rating": "3.5",
         "pid": "0374532338",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Zero to One",
         "author": "Peter Thiel/Blake Masters",
         "rating": "5",
         "pid": "0804139296",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Delivering Happiness",
         "author": "Tony Hsieh",
         "rating": "4",
         "pid": "0446576220",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Interactive Data Viz for the Web; An Introduction to Designing with D3",
         "author": "Scott Murray",
         "rating": "3",
         "pid": "",
-        "date_read": "?"
+        "date_read": "?",
+        "url": "https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/"
     },
     {
         "title": "Programming Amazon EC2",
         "author": "Jurg van Vliet & Flavia Paganelli",
         "rating": "3.5",
         "pid": "1449393683",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Venture Deals",
         "author": "Brad Feld and Jason Mendelson",
         "rating": "5",
         "pid": "1119594820",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The New Power Base Selling",
         "author": "Jim Holden and Ryan Kubacki",
         "rating": "5",
         "pid": "1118206673",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Diving into Python",
         "author": "Mark Pilgrim",
         "rating": "3",
         "pid": "",
-        "date_read": "?"
+        "date_read": "?",
+        "url": "https://diveintopython3.problemsolving.io/"
     },
     {
         "title": "How to Create a Mind",
         "author": "Ray Kurzweil",
         "rating": "3.5",
         "pid": "0143124048",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "iOS Programming",
         "author": "Joe Conway, Aaron Hillegass",
         "rating": "3",
         "pid": "0321942051",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Here Comes Everybody: The Power of Organizing without Organizations",
         "author": "Clay Shirkey",
         "rating": "3.5",
         "pid": "0143114948",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Free Culture",
         "author": "Lawrence Lessig",
         "rating": "5",
         "pid": "1521346631",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Giovanni\u2019s Room",
         "author": "James Baldwin",
         "rating": "4",
         "pid": "0345806565",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Angle of Yaw",
         "author": "Ben Lerner",
         "rating": "3.5",
         "pid": "1556592469",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Thinking, Fast and Slow",
         "author": "Daniel Kahneman",
         "rating": "4",
         "pid": "0374533555",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Zen Mind, Beginner\u2019s Mind",
         "author": "Shunryu Suzuki",
         "rating": "5",
         "pid": "1611808413",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Steve Jobs",
         "author": "Walter Isaacson",
         "rating": "5",
         "pid": "1451648537",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Getting Things Done",
         "author": "David Allen",
         "rating": "3",
         "pid": "0143126563",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Mythical Man Month: Essays on Software Engineering",
         "author": "Frederick P. Brooks Jr.",
         "rating": "3",
         "pid": "0201835959",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Difficult Conversations",
         "author": "Douglas Stone, Bruce Patton, Sheila Heen",
         "rating": "5",
         "pid": "0143118447",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Understanding Media",
         "author": "Marshall McLuhan",
         "rating": "4",
         "pid": "0262631598",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "In Watermelon Sugar",
         "author": "Richard Brautigan",
         "rating": "4",
         "pid": "0099437597",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Train Dreams",
         "author": "Denis Johnson",
         "rating": "4",
         "pid": "1250007658",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Lean Startup",
         "author": "Eric Ries",
         "rating": "3",
         "pid": "0307887898",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Pro JavaScript Techniques",
         "author": "John Resig",
         "rating": "3",
         "pid": "1590597273",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Lichtenberg Figures",
         "author": "Ben Lerner",
         "rating": "4",
         "pid": "1556592116",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Leaving the Atocha Station",
         "author": "Ben Lerner",
         "rating": "5",
         "pid": "1566892740",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Design of Everyday Things",
         "author": "Donald Norman",
         "rating": "5",
         "pid": "0465050654",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Flow: Nature's Patterns: A Tapestry in Three Parts",
         "author": "Philip Ball",
         "rating": "4.5",
         "pid": "0199604878",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Stories of Vladimir Nabokov",
         "author": "Vladimir Nabokov",
         "rating": "",
         "pid": "B004KABEEW",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Wind-Up Bird Chronicle",
         "author": "Haruki Murakami",
         "rating": "4",
         "pid": "B004US0S82",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines",
         "author": "Jeff Hawkins, Sandra Blakeslee",
         "rating": "4",
         "pid": "B003J4VE5Y",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Lolita",
         "author": "Vladimir Nabokov",
         "rating": "4.5",
         "pid": "0679723161",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Oblivion: Stories",
         "author": "David Foster Wallace",
         "rating": "5",
         "pid": "0316010766",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Brief Interviews with Hideous Men",
         "author": "David Foster Wallace",
         "rating": "4",
         "pid": "0316925195",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "The Hero with a Thousand Faces",
         "author": "Joseph Campbell",
         "rating": "3.5",
         "pid": "1577315936",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Man and His Symbols",
         "author": "Carl G. Jung",
         "rating": "4",
         "pid": "B006V3E2MC",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Lunch Poems",
         "author": "Frank O'Hara",
         "rating": "4.5",
         "pid": "0872860353",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Siddhartha: A Novel ",
         "author": "Hermann Hesse",
         "rating": "",
         "pid": "0553208845",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     },
     {
         "title": "Biology, 7th Edition",
         "author": "Neil Campbell, Jane Reece",
         "rating": "4",
         "pid": "080537146X",
-        "date_read": "?"
+        "date_read": "?",
+        "url": ""
     }
 ]

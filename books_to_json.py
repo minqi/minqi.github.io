@@ -20,7 +20,7 @@ if __name__ == '__main__':
 		date_read = book['Date finished']
 
 		if not private and (len(pid) > 0 or len(url) > 0):
-			bdict = {'title': title, 'author':author, 'rating':rating, 'pid': pid, 'date_read': date_read}
+			bdict = {'title': title, 'author':author, 'rating':rating, 'pid': pid, 'date_read': date_read, 'url': url}
 			book_dicts.append(bdict)
 
 	fout = open('books.json', 'w+')

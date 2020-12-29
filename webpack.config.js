@@ -27,7 +27,6 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 
 
-
 /*
  * We've enabled TerserPlugin for you! This minifies your app
  * in order to load faster and run less javascript.

@@ -37,13 +37,13 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
  */
 
 const TerserPlugin = require('terser-webpack-plugin');
-
+const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 
 
 
 module.exports = {
-  mode: 'development',
-  devtool: "eval-source-map",
+  mode: 'production',
+  // devtool: "eval-source-map",
   entry: {
     main: './static/src/app.js'
   },
@@ -78,7 +78,7 @@ module.exports = {
         loader: "sass-loader",
 
         options: {
-          sourceMap: true
+          sourceMap: true,
         }
       }]
     },{
@@ -95,7 +95,7 @@ module.exports = {
   },
 
   optimization: {
-    minimizer: [new TerserPlugin()],
+    minimizer: [new TerserPlugin(), new CssMinimizerPlugin()],
 
     splitChunks: {
       cacheGroups: {

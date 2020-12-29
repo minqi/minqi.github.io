@@ -51,8 +51,8 @@ class Library extends Component {
 				<div className='section preface'>
 					This is a growing list of books I've read in the past few years. 
 					Books I particularly enjoyed are highlighted in <span className='highlight-cyan'>cyan</span>, 
-					while those I would consider among my favorite are highlighted in <span className='highlight-yellow'>yellow</span>. 
-					An asterisk (*) marks those books I am currently reading.
+					while those I would consider among my favorites are highlighted in <span className='highlight-yellow'>yellow</span>. 
+					An asterisk (*) marks books I am currently reading.
 				</div>
 
 				{this._make_book_list()}

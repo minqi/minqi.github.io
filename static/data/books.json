@@ -8,14 +8,6 @@
         "url": ""
     },
     {
-        "title": "House of Leaves",
-        "author": "Mark Z. Danielewski",
-        "rating": "",
-        "pid": "0375703764",
-        "date_read": "",
-        "url": ""
-    },
-    {
         "title": "Probability Theory: The Logic of Science",
         "author": "E.T. Jaynes",
         "rating": "4.5",
@@ -37,6 +29,14 @@
         "rating": "4.5",
         "pid": "0521642981",
         "date_read": "",
+        "url": ""
+    },
+    {
+        "title": "House of Leaves",
+        "author": "Mark Z. Danielewski",
+        "rating": "4",
+        "pid": "0375703764",
+        "date_read": "1/2/2021",
         "url": ""
     },
     {

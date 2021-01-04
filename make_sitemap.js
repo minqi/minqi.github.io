@@ -8,7 +8,7 @@
   ]
 
   // Create a stream to write to
-  const stream = new SitemapStream( { hostname: 'https://www.minch.co' } )
+  const stream = new SitemapStream( { hostname: 'https://minch.co' } )
 
   // Return a promise that resolves with your XML string
   return streamToPromise(Readable.from(links).pipe(stream)).then((data) => {

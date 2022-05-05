@@ -16,6 +16,7 @@ $note-color: #777;
 
 ul.publications li {
 	margin: 16px 0;
+	margin-bottom: 32px;
 
 	a {
 		color: $link-color;
@@ -25,7 +26,8 @@ ul.publications li {
 	}
 
 	.title a {
-		color: black;
+		color: $link-color;
+		font-weight: bold;
 	}
 
 	.note {

@@ -3,6 +3,9 @@
 
 @import 'constants';
 
+html {
+	overflow-y: scroll;
+}
 
 body {
   font-family: "Inter-Regular", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;

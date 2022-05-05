@@ -1,11 +1,71 @@
-[	
+[
+	{
+		"title": "Evolving Curricula with Regret-Based Environment Design",
+		"authors": [
+			"Jack Parker-Holder*", "Minqi Jiang*", "Michael Dennis", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "arXiv",
+		"year": 2022,
+		"links": {
+			"paper": "https://accelagent.github.io/",
+			"tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
+			"demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
+			"video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
+			"interview": "https://www.youtube.com/watch?v=16BsJI5I-Yw"
+		}
+	},
+
+	{
+		"title": "Improving Intrinsic Exploration with Language Abstractions",
+		"authors": [
+			"Jesse Mu", "Victor Zhong", "Roberta Raileanu", "Minqi Jiang", "Noah Goodman", "Tim Rocktäschel", "Edward Grefenstette"
+		],
+		"publication": "arXiv",
+		"year": 2022,
+		"links": {
+			"paper": "https://arxiv.org/abs/2202.08938",
+			"tl;dr": "https://twitter.com/jayelmnop/status/1496515121400922113",
+			"video explainer": "https://www.youtube.com/watch?v=NeGJAUSQEJI",
+			"interview": "https://www.youtube.com/watch?v=z4lAlVRwbrc"
+		}
+	},
+
+	{
+		"title": "Replay-Guided Adversarial Environment Design",
+		"authors": [
+			"Minqi Jiang*", "Michael Dennis*", "Jack Parker-Holder", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "NeurIPS",
+		"year": 2021,
+		"links": {
+			"paper": "https://arxiv.org/abs/2110.02439",
+			"tl;dr": "https://twitter.com/MinqiJiang/status/1446518686152593409"
+		}
+	},
+
+	{
+		"title": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research",
+		"authors": [
+			"Mikayel Samvelyan", "Robert Kirk", "Vitaly Kurin", "Jack Parker-Holder", "Minqi Jiang", 
+			"Eric Hambro", "Fabio Petroni", "Heinrich Küttler", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "NeurIPS Datasets and Benchmarks",
+		"year": 2021,
+		"links": {
+			"paper": "https://arxiv.org/abs/2109.13202",
+			"code": "https://github.com/facebookresearch/minihack",
+			"tl;dr": "https://twitter.com/samveIyan/status/1443245005150330882",
+			"level editor": "https://minihack-editor.github.io/"
+		} 
+	},
+
 	{
 		"title": "Prioritized Level Replay",
 		"authors": [
 			"Minqi Jiang", "Edward Grefenstette", "Tim Rocktäschel"
 		],
-		"publication": "arXiv",
-		"year": 2020,
+		"publication": "ICML",
+		"year": 2021,
 		"links": {
 			"paper": "https://arxiv.org/abs/2010.03934",	
 			"code": "https://github.com/facebookresearch/level-replay",

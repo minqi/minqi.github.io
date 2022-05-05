@@ -1,13 +1,5 @@
 [
     {
-        "title": "Apocalypse Never",
-        "author": "Mike Shellenberger",
-        "rating": "",
-        "pid": "0063001691",
-        "date_read": "",
-        "url": ""
-    },
-    {
         "title": "Probability Theory: The Logic of Science",
         "author": "E.T. Jaynes",
         "rating": "4.5",
@@ -29,6 +21,62 @@
         "rating": "4.5",
         "pid": "0521642981",
         "date_read": "",
+        "url": ""
+    },
+    {
+        "title": "The Ethical Algorithm: The Science of Socially Aware Algorithm Design",
+        "author": "Aaron Roth & Michael Kearns",
+        "rating": "4",
+        "pid": "0190948205",
+        "date_read": "1/15/2022",
+        "url": ""
+    },
+    {
+        "title": "Apocalypse Never",
+        "author": "Mike Shellenberger",
+        "rating": "4",
+        "pid": "0063001691",
+        "date_read": "1/1/2022",
+        "url": ""
+    },
+    {
+        "title": "Who Gets What and Why",
+        "author": "Alvin E. Roth",
+        "rating": "4",
+        "pid": "0544705289",
+        "date_read": "12/16/2021",
+        "url": ""
+    },
+    {
+        "title": "A Man for All Markets",
+        "author": "Edward O. Thorpe",
+        "rating": "3.5",
+        "pid": "1400067960",
+        "date_read": "12/11/2021",
+        "url": ""
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "rating": "4",
+        "pid": "0441172717",
+        "date_read": "7/7/2021",
+        "url": ""
+    },
+    {
+        "title": "Klara and the Sun",
+        "author": "Kazuo Ishiguro",
+        "rating": "4.5",
+        "pid": "059331817X",
+        "date_read": "6/6/2021",
+        "url": ""
+    },
+    {
+        "title": "Interior Chinatown",
+        "author": "Charles Yu",
+        "rating": "4.5",
+        "pid": "0307907198",
+        "date_read": "3/8/2021",
         "url": ""
     },
     {

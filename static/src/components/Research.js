@@ -17,7 +17,7 @@ class Research extends Component {
 			let tokens = a.split(' ');
 			let initials = tokens.slice(0,tokens.length - 1).reduce((accum, next) => accum + next[0], ''); 
 			let surname = tokens[tokens.length - 1];
-			let isBold = a.toLowerCase() == 'minqi jiang';
+			let isBold = a.toLowerCase().startsWith('minqi jiang');
 
 			let separator = ', ';
 			if (i == authors.length - 1) {
@@ -83,6 +83,10 @@ class Research extends Component {
 		return <ul className='publications'>{paperListItems}</ul>;
 	}
 
+	_make_news_list() {
+		
+	}
+
 	render() {
 		return (
 			<div className='research-container'>
@@ -100,6 +104,13 @@ class Research extends Component {
 
 					<p>
 					I have the great fortune to be advised by <a target='__blank' href='https://rockt.github.io/'>Tim Rocktäschel</a> and <a target='__blank' href='https://www.egrefen.com/'>Edward Grefenstette</a> and to work with many other fantastic collaborators.
+					</p>
+				</div>
+
+				<div className='section news'>
+					<div className='section-header'>News</div>
+					<p>
+					Recently, I led the organization of the <a target='__blank' href='https://sites.google.com/view/aloe2022'>1st Workshop on Agent Learning in Open Endedness (ALOE) at ICLR 2022 🌱</a>, seeking to bridge ideas of open-ended evoluton in ALife with open-ended learning in ML.
 					</p>
 				</div>
 

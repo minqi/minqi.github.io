@@ -84,7 +84,7 @@ class Research extends Component {
 	}
 
 	_make_news_list() {
-		
+
 	}
 
 	render() {
@@ -110,7 +110,7 @@ class Research extends Component {
 				<div className='section news'>
 					<div className='section-header'>News</div>
 					<p>
-					Recently, I led the organization of the <a target='__blank' href='https://sites.google.com/view/aloe2022'>1st Workshop on Agent Learning in Open Endedness (ALOE) at ICLR 2022 🌱</a>, seeking to bridge ideas of open-ended evoluton in ALife with open-ended learning in ML.
+					Recently, I led the organization of the <a target='__blank' href='https://sites.google.com/view/aloe2022'>1st Workshop on Agent Learning in Open Endedness (ALOE) at ICLR 2022 🌱</a>, seeking to bridge ideas of open-ended evolution in ALife with open-ended learning in machine learning.
 					</p>
 				</div>
 

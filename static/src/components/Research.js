@@ -83,10 +83,6 @@ class Research extends Component {
 		return <ul className='publications'>{paperListItems}</ul>;
 	}
 
-	_make_news_list() {
-
-	}
-
 	render() {
 		return (
 			<div className='research-container'>

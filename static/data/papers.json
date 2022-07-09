@@ -8,6 +8,7 @@
 		"year": 2022,
 		"links": {
 			"paper": "https://accelagent.github.io/",
+			"code": "https://github.com/facebookresearch/dcd",
 			"tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
 			"demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
 			"video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
@@ -39,6 +40,7 @@
 		"year": 2021,
 		"links": {
 			"paper": "https://arxiv.org/abs/2110.02439",
+			"code": "https://github.com/facebookresearch/dcd",
 			"tl;dr": "https://twitter.com/MinqiJiang/status/1446518686152593409"
 		}
 	},

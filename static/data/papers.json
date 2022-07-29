@@ -1,5 +1,30 @@
 [
 	{
+		"title": "Grounding Aleatoric Uncertainty in Unsupervised Environment Design",
+		"authors": [
+			"Minqi Jiang", "Michael Dennis", "Jack Parker-Holder", "Andrei Lupu", "Heinrich Küttler", "Edward Grefenstette", "Tim Rocktäschel", "Jakob Foerster"
+		],
+		"publication": "arXiv",
+		"year": 2022,
+		"links": {
+			"paper": "https://arxiv.org/abs/2207.05219"
+		}
+	},
+
+	{
+		"title": "GriddlyJS: A Web IDE for Reinforcement Learning",
+		"authors": [
+			"Christopher Bamford", "Minqi Jiang", "Mikayel Samvelyan", "Tim Rocktäschel"
+		],
+		"publication": "arXiv",
+		"year": 2022,
+		"links": {
+			"paper": "https://arxiv.org/abs/2207.06105",
+			"griddlyjs":"https://griddly.ai/"
+		}
+	},
+
+	{
 		"title": "Evolving Curricula with Regret-Based Environment Design",
 		"authors": [
 			"Jack Parker-Holder*", "Minqi Jiang*", "Michael Dennis", "Mikayel Samvelyan", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"

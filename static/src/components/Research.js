@@ -12,6 +12,7 @@ class Research extends Component {
 
 	_formatPaperAuthors(authors) {
 		let formattedAuthors = [];
+		let isEqualContribution = false;
 		for (var i = 0;  i < authors.length; i++) {
 			let a = authors[i];
 			let tokens = a.split(' ');
@@ -19,12 +20,21 @@ class Research extends Component {
 			let surname = tokens[tokens.length - 1];
 			let isBold = a.toLowerCase().startsWith('minqi jiang');
 
+			if (a[a.length-1] == '*') {
+				isEqualContribution = true;
+			}
+
 			let separator = ', ';
 			if (i == authors.length - 1) {
 				separator = '';
 			}
 
-			formattedAuthors.push(<span className={classnames({bold: isBold})}>{initials} {surname}{separator}</span>);
+			let equalContribution = '';
+			if (isEqualContribution && i == authors.length-1) {
+				equalContribution = (<span className="equal"> (*Equal contribution)</span>);
+			}
+
+			formattedAuthors.push(<span className={classnames({bold: isBold})}>{initials} {surname}{separator}{equalContribution}</span>);
 		}
 
 		return formattedAuthors;

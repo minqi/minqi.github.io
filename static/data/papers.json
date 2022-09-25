@@ -4,7 +4,7 @@
 		"authors": [
 			"Minqi Jiang", "Michael Dennis", "Jack Parker-Holder", "Andrei Lupu", "Heinrich Küttler", "Edward Grefenstette", "Tim Rocktäschel", "Jakob Foerster"
 		],
-		"publication": "arXiv",
+		"publication": "NeurIPS",
 		"year": 2022,
 		"links": {
 			"paper": "https://arxiv.org/abs/2207.05219"
@@ -16,7 +16,7 @@
 		"authors": [
 			"Christopher Bamford", "Minqi Jiang", "Mikayel Samvelyan", "Tim Rocktäschel"
 		],
-		"publication": "arXiv",
+		"publication": "NeurIPS Datasets and Benchmarks",
 		"year": 2022,
 		"links": {
 			"paper": "https://arxiv.org/abs/2207.06105",
@@ -46,7 +46,7 @@
 		"authors": [
 			"Jesse Mu", "Victor Zhong", "Roberta Raileanu", "Minqi Jiang", "Noah Goodman", "Tim Rocktäschel", "Edward Grefenstette"
 		],
-		"publication": "arXiv",
+		"publication": "NeurIPS",
 		"year": 2022,
 		"links": {
 			"paper": "https://arxiv.org/abs/2202.08938",

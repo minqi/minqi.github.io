@@ -26,7 +26,6 @@ const webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 
-
 /*
  * We've enabled TerserPlugin for you! This minifies your app
  * in order to load faster and run less javascript.
@@ -37,8 +36,6 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const TerserPlugin = require('terser-webpack-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
-
-
 
 module.exports = {
   mode: 'production',
@@ -94,6 +91,8 @@ module.exports = {
   },
 
   optimization: {
+    usedExports: true, // <- no remove unused function
+
     minimizer: [new TerserPlugin(), new CssMinimizerPlugin()],
 
     splitChunks: {

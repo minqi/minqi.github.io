@@ -25,19 +25,15 @@
 	},
 
 	{
-		"title": "Evolving Curricula with Regret-Based Environment Design",
+		"title": "Exploration via Elliptical Episodic Bonuses",
 		"authors": [
-			"Jack Parker-Holder*", "Minqi Jiang*", "Michael Dennis", "Mikayel Samvelyan", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
+			"Mikael Henaff", "Roberta Raileanu", "Minqi Jiang", "Tim Rocktäschel"
 		],
-		"publication": "ICML",
+		"publication": "NeurIPS",
 		"year": 2022,
 		"links": {
-			"paper": "https://accelagent.github.io/",
-			"code": "https://github.com/facebookresearch/dcd",
-			"tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
-			"demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
-			"video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
-			"interview": "https://www.youtube.com/watch?v=16BsJI5I-Yw"
+			"paper": "https://e3bagent.github.io/",
+			"code": "https://github.com/facebookresearch/e3b"
 		}
 	},
 
@@ -53,6 +49,23 @@
 			"tl;dr": "https://twitter.com/jayelmnop/status/1496515121400922113",
 			"video explainer": "https://www.youtube.com/watch?v=NeGJAUSQEJI",
 			"interview": "https://www.youtube.com/watch?v=z4lAlVRwbrc"
+		}
+	},
+
+	{
+		"title": "Evolving Curricula with Regret-Based Environment Design",
+		"authors": [
+			"Jack Parker-Holder*", "Minqi Jiang*", "Michael Dennis", "Mikayel Samvelyan", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "ICML",
+		"year": 2022,
+		"links": {
+			"paper": "https://accelagent.github.io/",
+			"code": "https://github.com/facebookresearch/dcd",
+			"tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
+			"demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
+			"video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
+			"interview": "https://www.youtube.com/watch?v=16BsJI5I-Yw"
 		}
 	},
 

@@ -37,7 +37,7 @@ class LeftNav extends Component {
 
   _generatePortraitCache() {
   	let portraitList = [];
-  	for (let i = 0; i < 4; i++) {
+  	for (let i = 0; i < 5; i++) {
   		portraitList.push((<li></li>));
   	}
   	return <ul id='portrait-cache'>{portraitList}</ul>; 
@@ -53,7 +53,7 @@ class LeftNav extends Component {
 				<div className='info'>
 					<div className='name'>Minqi Jiang</div>
 					<div className='job-title'>
-					PhD student, University College London & Facebook AI Research
+					PhD student, University College London & Meta AI
 					</div>
 					<ul className='links'>
 						<li key='twitter'><div className='icon twitter-icon'/> <a target='__blank' href='https://www.twitter.com/minqijiang'>@MinqiJiang</a></li>

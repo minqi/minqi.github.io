@@ -88,7 +88,7 @@ body {
 	padding: 8px;
 }
 
-@for $i from 1 through 4 {
+@for $i from 1 through 5 {
   #portrait-cache :nth-child(#{$i}) {
   	background-image: url("../images/ai-" + $i + ".png");
   }

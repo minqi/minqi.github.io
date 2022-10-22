@@ -6,10 +6,50 @@ import classnames from 'classnames'
 
 class LeftNav extends Component {
 
+  componentDidMount() {
+  	this.selfPortrait = document.getElementById('self-portrait');
+  	this.selfPortraitCache = document.getElementById('portrait-cache');
+
+  	this.selfPortraitUrls = [];
+  	let numPortraits = this.selfPortraitCache.childElementCount;
+  	for (let i = 1; i <= numPortraits; i++) {
+			var portrait = document.querySelector("#portrait-cache :nth-child(" + (i) + ")");
+			let style = portrait.currentStyle || window.getComputedStyle(portrait, false);
+			let url = style.backgroundImage.replace(/url\((['"])?(.*?)\1\)/gi, '$2').split(',')[0];
+			this.selfPortraitUrls.push(url);
+  	}
+
+		let portraitShiftPerSecond = 10; // how many times to fire the event per second
+		var portraitWait = false;
+    this.selfPortrait.addEventListener('mousemove', (e) => {
+    	if (!portraitWait) {
+				let index = Math.floor(Math.random()*numPortraits);
+				this.selfPortrait.style.backgroundImage = "url(" + this.selfPortraitUrls[index] + ")";
+
+				portraitWait = true;
+
+        setTimeout(function () {
+            portraitWait = false;
+        }, 1000 / portraitShiftPerSecond);
+			}
+    });
+  }
+
+  _generatePortraitCache() {
+  	let portraitList = [];
+  	for (let i = 0; i < 4; i++) {
+  		portraitList.push((<li></li>));
+  	}
+  	return <ul id='portrait-cache'>{portraitList}</ul>; 
+  }
+
 	render() {
 		return (
 			<div className='left-nav'>
-				<div className='self-portrait'/>
+				<div id='self-portrait' className='self-portrait'/>
+				
+				{this._generatePortraitCache()}
+
 				<div className='info'>
 					<div className='name'>Minqi Jiang</div>
 					<div className='job-title'>

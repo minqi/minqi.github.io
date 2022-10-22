@@ -88,6 +88,12 @@ body {
 	padding: 8px;
 }
 
+@for $i from 1 through 4 {
+  #portrait-cache :nth-child(#{$i}) {
+  	background-image: url("../images/ai-" + $i + ".png");
+  }
+}
+
 .left-nav {
 	flex: 1 1 auto;
 	width: 170px;
@@ -99,7 +105,7 @@ body {
 	font-size:14px;
 
 	.self-portrait {
-		background-image: url('../images/ai-portrait.jpg');
+		background-image: url('../images/ai-1.png');
 		background-size: cover;
 		height: 120px;
 		width: 120px;

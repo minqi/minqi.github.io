@@ -76,6 +76,8 @@ class PageNav extends Component {
 						</PageNavLink>
 					</li>
 				</ul>
+
+				<a href="https://blog.minch.co" target="__blank"><div key='blog' className='page-nav-link' id='blog-btn'>↳ Blog</div></a>
 			</div>
 		)
 	}

@@ -1,4 +1,18 @@
 [
+		{
+		"title": "General Intelligence Requires Rethinking Exploration",
+		"authors": [
+			"Minqi Jiang", "Tim Rocktäschel", "Edward Grefenstette"
+		],
+		"publication": "arXiv",
+		"year": 2022,
+		"links": {
+			"paper": "https://arxiv.org/abs/2211.07819",
+			"tl;dr": "https://twitter.com/MinqiJiang/status/1592899773325258752",
+			"blog": "https://blog.minch.co/2022/11/15/software-squared.html"
+		}
+	},
+
 	{
 		"title": "Grounding Aleatoric Uncertainty in Unsupervised Environment Design",
 		"authors": [

@@ -1,5 +1,17 @@
 [
-		{
+	{
+		"title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+		"authors": [
+			"Mikayel Samvelyan", "Akbir Khan", "Michael Dennis", "Minqi Jiang", "Jack Parker-Holder", "Robert Raileanu", "Jakob Foerster", "Tim Rocktäschel"
+		],
+		"publication": "ICLR 2023",
+		"year": 2023,
+		"links": {
+			"paper": "https://openreview.net/forum?id=sKWlRDzPfd7"
+		}
+	},
+
+	{
 		"title": "General Intelligence Requires Rethinking Exploration",
 		"authors": [
 			"Minqi Jiang", "Tim Rocktäschel", "Edward Grefenstette"

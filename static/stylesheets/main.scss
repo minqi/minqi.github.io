@@ -229,6 +229,11 @@ body {
 	line-height: 24px;
 }
 
+.news-date {
+	font-weight: 700;
+	color: #8F8F8F
+}
+
 // Media queries
 @media (max-width: $max-mobile-width) {
 	.app-container {

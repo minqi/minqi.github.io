@@ -105,23 +105,32 @@ class Research extends Component {
 
 					<p>
 					I consider this question primarily in the setting of <span className='bold'>deep reinforcement learning</span>, 
-					focusing on problems arising at the intersections of <span className='bold'>generalization</span>, <span className='bold'>human-AI coordination</span>, and <span className='bold'>open-ended systems</span>.
-					</p>
-
-					<p>
-					I have the great fortune to be advised by <a target='__blank' href='https://rockt.github.io/'>Tim Rocktäschel</a> and <a target='__blank' href='https://www.egrefen.com/'>Edward Grefenstette</a> and to work with many other fantastic collaborators.
+					focusing on problems arising at the intersections of <span className='bold'>generalization</span>, <span className='bold'>human-AI coordination</span>, and <span className='bold'>open-ended systems </span> 
+					as part of the Autonomous Assistants team at Google DeepMind.
 					</p>
 				</div>
 
 				<div className='section news'>
 					<div className='section-header'>News</div>
 					<p>
-					Recently, I led the organization of the <a target='__blank' href='https://sites.google.com/view/aloe2022'>1st Workshop on Agent Learning in Open Endedness (ALOE) at ICLR 2022 🌱</a>, seeking to bridge ideas of open-ended evolution in ALife with self-supervised machine learning.
+					<span className='news-date'>Dec 15, 2023:</span> Co-organized the <a target='__blank' href='https://sites.google.com/view/aloe2023'>2nd Workshop on Agent Learning in Open Endedness (ALOE) at NeurIPS 2023 🌱</a>, seeking to bridge ideas of open-ended evolution in ALife with self-supervised machine learning. The event was a lot of fun and drew out a <a target='__blank' href='https://twitter.com/aloeworkshop/status/1735898465580810548'>special community</a> of researchers.
+					</p>
+
+					<p>
+					<span className='news-date'>Dec 4, 2023:</span> Joined DeepMind as a Research Scientist.
+					</p>
+
+					<p>
+					<span className='news-date'>Nov 22, 2023:</span> Released <a target='__blank' href="https://github.com/facebookresearch/minimax">minimax</a>, a library for rapid experimentation with autocurricula methods for RL in JAX, including new parallelized and multi-GPU/TPU versions of PLR and ACCEL.
+					</p>
+
+					<p>
+					<span className='news-date'>Sep 28, 2023:</span> Became a Doctor (of computers). You can find <a target='__blank' href="https://arxiv.org/abs/2312.03126">my dissertation on arXiv</a>.
 					</p>
 				</div>
 
 				<div className='section publications-container'>
-					<div className='section-header'>Recent works</div>
+					<div className='section-header'>Select works </div>
 					{this._make_publications_list()}
 				</div>
 			</div>

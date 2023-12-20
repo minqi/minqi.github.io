@@ -1,13 +1,27 @@
 [
 	{
-		"title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+		"title": "Learning Curricula in Open-Ended Worlds",
 		"authors": [
-			"Mikayel Samvelyan", "Akbir Khan", "Michael Dennis", "Minqi Jiang", "Jack Parker-Holder", "Robert Raileanu", "Jakob Foerster", "Tim Rocktäschel"
+			"Minqi Jiang"
 		],
-		"publication": "ICLR",
+		"publication": "PhD Dissertation",
 		"year": 2023,
 		"links": {
-			"paper": "https://openreview.net/forum?id=sKWlRDzPfd7"
+			"paper": "https://arxiv.org/abs/2312.03126"	
+		}
+	},
+
+	{
+		"title": "minimax: Efficient Baselines for Autocurricula in JAX",
+		"authors": [
+			"Minqi Jiang", "Michael Dennis", "Edward Grefenstette", "Tim Rocktäschel"
+		],
+		"publication": "ALOE",
+		"year": 2023,
+		"links": {
+			"paper": "https://arxiv.org/abs/2311.12716",	
+			"code": "https://github.com/facebookresearch/minimax",
+			"tl;dr": "https://twitter.com/MinqiJiang/status/1727349429597077734"
 		}
 	},
 
@@ -16,12 +30,25 @@
 		"authors": [
 			"Minqi Jiang", "Tim Rocktäschel", "Edward Grefenstette"
 		],
-		"publication": "arXiv",
-		"year": 2022,
+		"publication": "Royal Society Open Science",
+		"year": 2023,
 		"links": {
 			"paper": "https://arxiv.org/abs/2211.07819",
 			"tl;dr": "https://twitter.com/MinqiJiang/status/1592899773325258752",
 			"blog": "https://blog.minch.co/2022/11/15/software-squared.html"
+		}
+	},
+
+	{
+		"title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+		"authors": [
+			"Mikayel Samvelyan", "Akbir Khan", "Michael Dennis", "Minqi Jiang", "Jack Parker-Holder", "Robert Raileanu", "Jakob Foerster", "Tim Rocktäschel"
+		],
+		"publication": "ICLR",
+		"year": 2023,
+		"links": {
+			"paper": "https://openreview.net/forum?id=sKWlRDzPfd7",
+			"tl;dr": "https://twitter.com/_samvelyan/status/1633145065303408643"
 		}
 	},
 
@@ -35,47 +62,6 @@
 		"links": {
 			"paper": "https://arxiv.org/abs/2207.05219",
 			"tl;dr": "https://twitter.com/MinqiJiang/status/1590016861378588672"
-		}
-	},
-
-	{
-		"title": "GriddlyJS: A Web IDE for Reinforcement Learning",
-		"authors": [
-			"Christopher Bamford", "Minqi Jiang", "Mikayel Samvelyan", "Tim Rocktäschel"
-		],
-		"publication": "NeurIPS Datasets and Benchmarks",
-		"year": 2022,
-		"links": {
-			"paper": "https://arxiv.org/abs/2207.06105",
-			"griddlyjs":"https://griddly.ai/"
-		}
-	},
-
-	{
-		"title": "Exploration via Elliptical Episodic Bonuses",
-		"authors": [
-			"Mikael Henaff", "Roberta Raileanu", "Minqi Jiang", "Tim Rocktäschel"
-		],
-		"publication": "NeurIPS",
-		"year": 2022,
-		"links": {
-			"paper": "https://e3bagent.github.io/",
-			"code": "https://github.com/facebookresearch/e3b"
-		}
-	},
-
-	{
-		"title": "Improving Intrinsic Exploration with Language Abstractions",
-		"authors": [
-			"Jesse Mu", "Victor Zhong", "Roberta Raileanu", "Minqi Jiang", "Noah Goodman", "Tim Rocktäschel", "Edward Grefenstette"
-		],
-		"publication": "NeurIPS",
-		"year": 2022,
-		"links": {
-			"paper": "https://arxiv.org/abs/2202.08938",
-			"tl;dr": "https://twitter.com/jayelmnop/status/1496515121400922113",
-			"video explainer": "https://www.youtube.com/watch?v=NeGJAUSQEJI",
-			"interview": "https://www.youtube.com/watch?v=z4lAlVRwbrc"
 		}
 	},
 
@@ -111,22 +97,6 @@
 	},
 
 	{
-		"title": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research",
-		"authors": [
-			"Mikayel Samvelyan", "Robert Kirk", "Vitaly Kurin", "Jack Parker-Holder", "Minqi Jiang", 
-			"Eric Hambro", "Fabio Petroni", "Heinrich Küttler", "Edward Grefenstette", "Tim Rocktäschel"
-		],
-		"publication": "NeurIPS Datasets and Benchmarks",
-		"year": 2021,
-		"links": {
-			"paper": "https://arxiv.org/abs/2109.13202",
-			"code": "https://github.com/facebookresearch/minihack",
-			"tl;dr": "https://twitter.com/samveIyan/status/1443245005150330882",
-			"level editor": "https://minihack-editor.github.io/"
-		} 
-	},
-
-	{
 		"title": "Prioritized Level Replay",
 		"authors": [
 			"Minqi Jiang", "Edward Grefenstette", "Tim Rocktäschel"
@@ -139,20 +109,5 @@
 			"tl;dr": "https://twitter.com/MinqiJiang/status/1314571006552543246"
 		},
 		"note": "Key component of current state-of-the-art on <a target='__blank' href='https://openai.com/blog/procgen-benchmark/'>OpenAI Procgen<a>" 
-	},
-
-	{
-		"title": "WordCraft: An Environment for Benchmarking Commonsense Agents",
-		"authors": [
-			"Minqi Jiang", "Jelena Luketina", "Nantas Nardelli", "Pasquale Minervini", "Philip H. S. Torr", "Shimon Whiteson", "Tim Rocktäschel"
-		],
-		"publication": "The 1st Workshop on Language in Reinforcement Learning (LaRel) at ICML",
-		"year": 2020,
-		"links": {
-			"paper": "https://arxiv.org/abs/2007.09185",
-			"code": "https://github.com/minqi/wordcraft",
-			"talk": "https://www.youtube.com/watch?v=zta8a4kQMlY",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1284190854081642497"
-		}
 	}
 ]

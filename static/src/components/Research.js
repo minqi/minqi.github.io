@@ -104,9 +104,7 @@ class Research extends Component {
 					</p>
 
 					<p>
-					I consider this question primarily in the setting of <span className='bold'>deep reinforcement learning</span>, 
-					focusing on problems arising at the intersections of <span className='bold'>generalization</span>, <span className='bold'>human-AI coordination</span>, and <span className='bold'>open-ended systems </span> 
-					as part of the Autonomous Assistants team at Google DeepMind.
+					I consider this question from the lens of <span className='bold'>generalization</span>, <span className='bold'>human-AI coordination</span>, and <span className='bold'>open-ended learning</span>, as part of the Autonomous Assistants team at Google DeepMind.
 					</p>
 				</div>
 

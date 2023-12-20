@@ -111,19 +111,19 @@ class Research extends Component {
 				<div className='section news'>
 					<div className='section-header'>News</div>
 					<p>
-					<span className='news-date'>Dec 15, 2023:</span> Co-organized the <a target='__blank' href='https://sites.google.com/view/aloe2023'>2nd Workshop on Agent Learning in Open Endedness (ALOE) at NeurIPS 2023 🌱</a>, seeking to bridge ideas of open-ended evolution in ALife with self-supervised machine learning. The event was a lot of fun and drew out a <a target='__blank' href='https://twitter.com/aloeworkshop/status/1735898465580810548'>special community</a> of researchers.
+					<span className='news-date'>Dec 2023:</span> Co-organized the <a target='__blank' href='https://sites.google.com/view/aloe2023'>2nd Workshop on Agent Learning in Open Endedness (ALOE) at NeurIPS 2023 🌱</a>, seeking to bridge ideas of open-ended evolution in ALife with self-supervised machine learning. The event was a lot of fun and drew out a <a target='__blank' href='https://twitter.com/aloeworkshop/status/1735898465580810548'>special community</a> of researchers.
 					</p>
 
 					<p>
-					<span className='news-date'>Dec 4, 2023:</span> Joined DeepMind as a Research Scientist.
+					<span className='news-date'>Dec 2023:</span> Joined DeepMind as a Research Scientist.
 					</p>
 
 					<p>
-					<span className='news-date'>Nov 22, 2023:</span> Released <a target='__blank' href="https://github.com/facebookresearch/minimax">minimax</a>, a library for rapid experimentation with autocurricula methods for RL in JAX, including new parallelized and multi-GPU/TPU versions of PLR and ACCEL.
+					<span className='news-date'>Nov 2023:</span> Released <a target='__blank' href="https://github.com/facebookresearch/minimax">minimax</a>, a library for rapid experimentation with autocurricula methods for RL in JAX, including new parallelized and multi-GPU/TPU versions of PLR and ACCEL.
 					</p>
 
 					<p>
-					<span className='news-date'>Sep 28, 2023:</span> Became a Doctor (of computers). You can find <a target='__blank' href="https://arxiv.org/abs/2312.03126">my dissertation on arXiv</a>.
+					<span className='news-date'>Sep 2023:</span> Became a Doctor (of computers). You can find <a target='__blank' href="https://arxiv.org/abs/2312.03126">my dissertation on arXiv</a>.
 					</p>
 				</div>
 

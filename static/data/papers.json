@@ -20,7 +20,8 @@
 		"year": 2023,
 		"links": {
 			"paper": "https://arxiv.org/abs/2311.12716",	
-			"code": "https://github.com/facebookresearch/minimax"
+			"code": "https://github.com/facebookresearch/minimax",
+			"tl;dr": "https://twitter.com/MinqiJiang/status/1727349429597077734"
 		}
 	},
 

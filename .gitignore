@@ -9,6 +9,7 @@ static/build/
 
 .DS_Store
 package-lock.json
+__pycache__/
 
 
 # Local Netlify folder

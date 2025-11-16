@@ -1,113 +1,210 @@
 [
-	{
-		"title": "Learning Curricula in Open-Ended Worlds",
-		"authors": [
-			"Minqi Jiang"
-		],
-		"publication": "PhD Dissertation",
-		"year": 2023,
-		"links": {
-			"paper": "https://arxiv.org/abs/2312.03126"	
-		}
-	},
+  {
+    "title": "Bootstrapping Task Spaces for Self-Improvement",
+    "authors": ["Minqi Jiang", "Andrei Lupu", "Yoram Bachrach"],
+    "publication": "arXiv",
+    "year": 2025,
+    "links": {
+      "paper": "https://www.arxiv.org/abs/2509.04575",
+      "tl;dr": "https://x.com/MinqiJiang/status/1965055909605916892"
+    }
+  },
+  {
+    "title": "The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements",
+    "authors": [
+      "Bingchen Zhao*",
+      "Despoina Magka*",
+      "Minqi Jiang*",
+      "Jakob Foerster",
+      "Yoram Bachrach",
+      "> AIRA Team"
+    ],
+    "publication": "NeurIPS Datasets & Benchmarks",
+    "year": 2025,
+    "links": {
+      "paper": "https://arxiv.org/abs/2506.22419",
+      "tl;dr": "https://x.com/MinqiJiang/status/1939656629143675262"
+    }
+  },
+  {
+    "title": "Generative Data Refinement: Just Ask for Better Data",
+    "authors": [
+      "Minqi Jiang",
+      "João G. M. Araújo",
+      "Will Ellsworth",
+      "Sian Gooding",
+      "Edward Grefenstette"
+    ],
+    "publication": "arXiv",
+    "year": "2025 (work done in mid-2024 at DeepMind)",
+    "links": {
+      "paper": "https://arxiv.org/abs/2509.08653",
+      "tl;dr": "https://x.com/MinqiJiang/status/1967563165455265905"
+    }
+  },
+  {
+    "title": "Learning to Act without Actions",
+    "authors": ["Dominik Schmidt", "Minqi Jiang"],
+    "publication": "ICLR (Spotlight)",
+    "year": 2024,
+    "links": {
+      "paper": "https://arxiv.org/abs/2312.10812",
+      "tl;dr": "https://x.com/schmidtdominik_/status/1737102412756684867"
+    }
+  },
+  {
+    "title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts",
+    "authors": [
+      "Mikayel Samvelyan",
+      "Sharath Chandra Raparthy",
+      "Andrei Lupu",
+      "Eric Hambro",
+      "Aram H Markosyan",
+      "Manish Bhatt",
+      "Yuning Mao",
+      "Minqi Jiang",
+      "Jack Parker-Holder",
+      "Jakob Foerster",
+      "Tim Rocktäschel",
+      "Roberta Raileanu"
+    ],
+    "publication": "NeurIPS",
+    "year": 2024,
+    "links": {
+      "paper": "https://arxiv.org/abs/2402.16822",
+      "tl;dr": "https://x.com/_samvelyan/status/1762519344943104195?s=20"
+    }
+  },
+  {
+    "title": "Learning Curricula in Open-Ended Worlds",
+    "authors": ["Minqi Jiang"],
+    "publication": "PhD Dissertation",
+    "year": 2023,
+    "links": {
+      "paper": "https://arxiv.org/abs/2312.03126"
+    }
+  },
+  {
+    "title": "minimax: Efficient Baselines for Autocurricula in JAX",
+    "authors": [
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "publication": "ALOE",
+    "year": 2023,
+    "links": {
+      "paper": "https://arxiv.org/abs/2311.12716",
+      "code": "https://github.com/facebookresearch/minimax",
+      "tl;dr": "https://twitter.com/MinqiJiang/status/1727349429597077734"
+    }
+  },
 
-	{
-		"title": "minimax: Efficient Baselines for Autocurricula in JAX",
-		"authors": [
-			"Minqi Jiang", "Michael Dennis", "Edward Grefenstette", "Tim Rocktäschel"
-		],
-		"publication": "ALOE",
-		"year": 2023,
-		"links": {
-			"paper": "https://arxiv.org/abs/2311.12716",	
-			"code": "https://github.com/facebookresearch/minimax",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1727349429597077734"
-		}
-	},
+  {
+    "title": "General Intelligence Requires Rethinking Exploration",
+    "authors": ["Minqi Jiang", "Tim Rocktäschel", "Edward Grefenstette"],
+    "publication": "Royal Society Open Science",
+    "year": 2023,
+    "links": {
+      "paper": "https://arxiv.org/abs/2211.07819",
+      "tl;dr": "https://twitter.com/MinqiJiang/status/1592899773325258752",
+      "blog": "https://blog.minch.co/2022/11/15/software-squared.html"
+    }
+  },
 
-	{
-		"title": "General Intelligence Requires Rethinking Exploration",
-		"authors": [
-			"Minqi Jiang", "Tim Rocktäschel", "Edward Grefenstette"
-		],
-		"publication": "Royal Society Open Science",
-		"year": 2023,
-		"links": {
-			"paper": "https://arxiv.org/abs/2211.07819",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1592899773325258752",
-			"blog": "https://blog.minch.co/2022/11/15/software-squared.html"
-		}
-	},
+  {
+    "title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Mikayel Samvelyan",
+      "Akbir Khan",
+      "Michael Dennis",
+      "Minqi Jiang",
+      "Jack Parker-Holder",
+      "Robert Raileanu",
+      "Jakob Foerster",
+      "Tim Rocktäschel"
+    ],
+    "publication": "ICLR",
+    "year": 2023,
+    "links": {
+      "paper": "https://openreview.net/forum?id=sKWlRDzPfd7",
+      "tl;dr": "https://twitter.com/_samvelyan/status/1633145065303408643"
+    }
+  },
 
-	{
-		"title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
-		"authors": [
-			"Mikayel Samvelyan", "Akbir Khan", "Michael Dennis", "Minqi Jiang", "Jack Parker-Holder", "Robert Raileanu", "Jakob Foerster", "Tim Rocktäschel"
-		],
-		"publication": "ICLR",
-		"year": 2023,
-		"links": {
-			"paper": "https://openreview.net/forum?id=sKWlRDzPfd7",
-			"tl;dr": "https://twitter.com/_samvelyan/status/1633145065303408643"
-		}
-	},
+  {
+    "title": "Grounding Aleatoric Uncertainty in Unsupervised Environment Design",
+    "authors": [
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Jack Parker-Holder",
+      "Andrei Lupu",
+      "Heinrich Küttler",
+      "Edward Grefenstette",
+      "Tim Rocktäschel",
+      "Jakob Foerster"
+    ],
+    "publication": "NeurIPS",
+    "year": 2022,
+    "links": {
+      "paper": "https://arxiv.org/abs/2207.05219",
+      "tl;dr": "https://twitter.com/MinqiJiang/status/1590016861378588672"
+    }
+  },
 
-	{
-		"title": "Grounding Aleatoric Uncertainty in Unsupervised Environment Design",
-		"authors": [
-			"Minqi Jiang", "Michael Dennis", "Jack Parker-Holder", "Andrei Lupu", "Heinrich Küttler", "Edward Grefenstette", "Tim Rocktäschel", "Jakob Foerster"
-		],
-		"publication": "NeurIPS",
-		"year": 2022,
-		"links": {
-			"paper": "https://arxiv.org/abs/2207.05219",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1590016861378588672"
-		}
-	},
+  {
+    "title": "Evolving Curricula with Regret-Based Environment Design",
+    "authors": [
+      "Jack Parker-Holder*",
+      "Minqi Jiang*",
+      "Michael Dennis",
+      "Mikayel Samvelyan",
+      "Jakob Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "publication": "ICML",
+    "year": 2022,
+    "links": {
+      "paper": "https://accelagent.github.io/",
+      "code": "https://github.com/facebookresearch/dcd",
+      "tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
+      "demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
+      "video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
+      "interview": "https://www.youtube.com/watch?v=16BsJI5I-Yw"
+    }
+  },
 
-	{
-		"title": "Evolving Curricula with Regret-Based Environment Design",
-		"authors": [
-			"Jack Parker-Holder*", "Minqi Jiang*", "Michael Dennis", "Mikayel Samvelyan", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
-		],
-		"publication": "ICML",
-		"year": 2022,
-		"links": {
-			"paper": "https://accelagent.github.io/",
-			"code": "https://github.com/facebookresearch/dcd",
-			"tl;dr": "https://twitter.com/jparkerholder/status/1499390426515578880",
-			"demo discussion": "https://twitter.com/MinqiJiang/status/1506286080903065607",
-			"video explainer": "https://www.youtube.com/watch?v=povBDxUn1VQ",
-			"interview": "https://www.youtube.com/watch?v=16BsJI5I-Yw"
-		}
-	},
+  {
+    "title": "Replay-Guided Adversarial Environment Design",
+    "authors": [
+      "Minqi Jiang*",
+      "Michael Dennis*",
+      "Jack Parker-Holder",
+      "Jakob Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "publication": "NeurIPS",
+    "year": 2021,
+    "links": {
+      "paper": "https://arxiv.org/abs/2110.02439",
+      "code": "https://github.com/facebookresearch/dcd",
+      "tl;dr": "https://twitter.com/MinqiJiang/status/1446518686152593409"
+    }
+  },
 
-	{
-		"title": "Replay-Guided Adversarial Environment Design",
-		"authors": [
-			"Minqi Jiang*", "Michael Dennis*", "Jack Parker-Holder", "Jakob Foerster", "Edward Grefenstette", "Tim Rocktäschel"
-		],
-		"publication": "NeurIPS",
-		"year": 2021,
-		"links": {
-			"paper": "https://arxiv.org/abs/2110.02439",
-			"code": "https://github.com/facebookresearch/dcd",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1446518686152593409"
-		}
-	},
-
-	{
-		"title": "Prioritized Level Replay",
-		"authors": [
-			"Minqi Jiang", "Edward Grefenstette", "Tim Rocktäschel"
-		],
-		"publication": "ICML",
-		"year": 2021,
-		"links": {
-			"paper": "https://arxiv.org/abs/2010.03934",	
-			"code": "https://github.com/facebookresearch/level-replay",
-			"tl;dr": "https://twitter.com/MinqiJiang/status/1314571006552543246"
-		},
-		"note": "Key component of current state-of-the-art on <a target='__blank' href='https://openai.com/blog/procgen-benchmark/'>OpenAI Procgen<a>" 
-	}
+  {
+    "title": "Prioritized Level Replay",
+    "authors": ["Minqi Jiang", "Edward Grefenstette", "Tim Rocktäschel"],
+    "publication": "ICML",
+    "year": 2021,
+    "links": {
+      "paper": "https://arxiv.org/abs/2010.03934",
+      "code": "https://github.com/facebookresearch/level-replay",
+      "tl;dr": "https://twitter.com/MinqiJiang/status/1314571006552543246"
+    },
+    "note": "Key component of current state-of-the-art on <a target='__blank' href='https://openai.com/blog/procgen-benchmark/'>OpenAI Procgen<a>"
+  }
 ]
